@@ -1,0 +1,24 @@
+7911, Muntean Paul, 0780015405
+3479, Vadau Vlad, 0775587948
+3755, Horvath Maria, 0757741815
+3530, Muntean Antonia, 0770678605
+1746, Pop Marius, 0795918538
+8410, Moldovan Patricia, 0761176263
+9453, Pop Antonia, 0745519221
+1312, Pastiu Patricia, 0778469298
+5095, Vadau Vlad, 0776949788
+8625, Vadau Paul, 0780756584
+9405, Pop Marius, 0775331713
+2349, Pop Paul, 0752299339
+5993, Bindea Maria, 0767811808
+9045, Pastiu Andrei, 0778240130
+2450, Satmarean Antonia, 0775780517
+4017, Muntean Marius, 0735651778
+3971, Satmarean Vlad, 0793469216
+1724, Muntean Gabriel, 0774668238
+6889, Vadau Andrei, 0750166538
+2581, Horvath Andrei, 0790715180
+2181, Horvath Andrei, 0790715180
+2755, r, 34
+45, wr, 3
+3421, fw, 3
