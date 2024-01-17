@@ -1,0 +1,8060 @@
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(string varf; (varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+string varf
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(varf=test.in; (openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+varf=test.in
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(openRFile(varf);; (int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+openRFile(varf);
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(int varc; (readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+int varc
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);))))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); (readFile(varf, varc);; (print(varc); closeRFile(varf);)))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(readFile(varf, varc);; (print(varc); closeRFile(varf);))
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+readFile(varf, varc);
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+(print(varc); closeRFile(varf);)
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+print(varc)
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+4
+Execution Stack:
+closeRFile(varf);
+
+Heap:
+
+Symbol Table:
+varc->0
+varf->test.in
+
+Output:
+0
+0
+
+FileTable:
+
+}
+
