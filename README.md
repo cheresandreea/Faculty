@@ -2,7 +2,7 @@
 ### :cherry_blossom: Semester 1
 * :capital_abcd: Algebra
 * :dark_sunglasses: Computational Logic
-* :snake: Fundamentals of Programming
+* :snake: [Fundamentals of Programming](https://github.com/cheresandreea/Faculty/tree/main/FP)
 * :open_book: Mathematical Analysis
 * :radioactive: Computer System Architecture
 
