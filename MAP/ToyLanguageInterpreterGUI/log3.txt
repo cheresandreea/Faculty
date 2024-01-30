@@ -1,0 +1,2841 @@
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+int v
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(a=true; (if(a) then(v=2) else(v=3); print(v)))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+a=true
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->false
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(if(a) then(v=2) else(v=3); print(v))
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+if(a) then(v=2) else(v=3)
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+v=2
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+a->true
+v->2
+
+Output:
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+(bool a; (int v; (a=true; (if(a) then(v=2) else(v=3); print(v)))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+3
+Execution Stack:
+bool a
+(int v; (a=true; (if(a) then(v=2) else(v=3); print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+

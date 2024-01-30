@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="597.0" prefWidth="817.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Gui.MainController">
+   <children>
+      <TextField fx:id="nrOfProgramStatesTextField" layoutX="27.0" layoutY="33.0" />
+      <Label layoutX="27.0" layoutY="14.0" text="Number of program states" />
+      <TableView fx:id="heapTableView" layoutX="38.0" layoutY="113.0" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="addressColumn" prefWidth="99.0" text="Address" />
+          <TableColumn fx:id="valueHeapColumn" prefWidth="100.0" text="Value" />
+        </columns>
+      </TableView>
+      <Label layoutX="27.0" layoutY="88.0" prefHeight="17.0" prefWidth="72.0" text="HeapTable" />
+      <Label layoutX="295.0" layoutY="88.0" text="Out" />
+      <ListView fx:id="outListView" layoutX="295.0" layoutY="113.0" prefHeight="200.0" prefWidth="200.0" />
+      <Label layoutX="539.0" layoutY="88.0" text="FileTable" />
+      <ListView fx:id="fileTableListView" layoutX="539.0" layoutY="113.0" prefHeight="200.0" prefWidth="200.0" />
+      <Label layoutX="27.0" layoutY="338.0" text="Program state identifiers" />
+      <ListView fx:id="programStatesListView" layoutX="27.0" layoutY="363.0" prefHeight="200.0" prefWidth="200.0" />
+      <TableView fx:id="symbolTableView" layoutX="285.0" layoutY="363.0" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="variableNameColumn" prefWidth="92.0" text="Variable name" />
+          <TableColumn fx:id="valueSymColumn" prefWidth="107.0" text="Value" />
+        </columns>
+      </TableView>
+      <ListView fx:id="executionStackListView" layoutX="539.0" layoutY="363.0" prefHeight="200.0" prefWidth="200.0" />
+      <Label layoutX="539.0" layoutY="338.0" text="ExeStack" />
+      <Button fx:id="runOneStepButton" layoutX="464.0" layoutY="21.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="82.0" text="OneStep" />
+   </children>
+</AnchorPane>

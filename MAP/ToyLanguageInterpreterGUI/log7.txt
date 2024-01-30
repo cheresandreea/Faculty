@@ -1,0 +1,10591 @@
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(int v; (v=4; (while(v > 0){(print(v); v=v-1)}; print(v))))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+int v
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(v=4; (while(v > 0){(print(v); v=v-1)}; print(v)))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=4
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(while(v > 0){(print(v); v=v-1)}; print(v))
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->4
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->3
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->2
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+(print(v); v=v-1)
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+v=v-1
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->1
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+while(v > 0){(print(v); v=v-1)}
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+print(v)
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
+{
+Program ID:
+7
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v->0
+
+Output:
+4
+3
+2
+1
+0
+
+FileTable:
+
+}
+
