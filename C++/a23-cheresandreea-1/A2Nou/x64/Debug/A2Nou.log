@@ -1,0 +1,20 @@
+﻿  main.c
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\main.c(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\main.c(4,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\main.c(14,23): warning C4013: 'initMedicineRepo' undefined; assuming extern returning int
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\main.c(15,20): warning C4133: 'function': incompatible types - from 'char [8]' to 'Medicine *'
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\main.c(15,31): warning C4020: 'addMedicine': too many actual parameters
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\main.c(14,16): warning C4047: 'initializing': 'MedicineRepo *' differs in levels of indirection from 'int'
+  Repo.c
+  UI.c
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\UI.c(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\UI.c(6,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\UI.c(33,2): warning C4013: 'addMedicineToStock' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\UI.c(40): warning C4716: 'start': must return a value
+  Pharmacy.c
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\Pharmacy.c(19,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[20]'
+C:\Users\Andreea\source\repos\A2Nou\A2Nou\Pharmacy.c(19,10): warning C4024: 'strcpy': different types for formal and actual parameter 1
+main.obj : error LNK2019: unresolved external symbol addMedicine referenced in function main
+UI.obj : error LNK2019: unresolved external symbol addMedicineToStock referenced in function addMedicineMenu
+C:\Users\Andreea\source\repos\A2Nou\x64\Debug\A2Nou.exe : fatal error LNK1120: 2 unresolved externals

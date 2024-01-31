@@ -1,0 +1,21 @@
+[2023-04-10 12:10:01] [info] Start Program:
+Path:"C:\Users\Andreea\source\repos\a45-cheresandreea\x64\Debug\A45.exe"
+Arguments:
+Working directory: "C:\Users\Andreea\source\repos\a45-cheresandreea\"
+Modules: Selected: C:\Users\Andreea\source\repos\a45-cheresandreea\x64\Debug\A45.exe Excluded: 
+Sources: Selected: C:\Users\Andreea\source\repos\a45-cheresandreea Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Andreea\AppData\Local\Temp\0robfi44.k2o 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-04-10 12:10:01] [info] Module: C:\Users\Andreea\source\repos\a45-cheresandreea\x64\Debug\A45.exe is selected because it matches selected pattern: C:\Users\Andreea\source\repos\a45-cheresandreea\x64\Debug\A45.exe
+[2023-04-10 12:10:01] [info] ----------------------------------------------------
+[2023-04-10 12:10:01] [info] Coverage binary generated in file: C:\Users\Andreea\AppData\Local\Temp\0robfi44.k2o
+[2023-04-10 12:10:01] [info] ----------------------------------------------------
