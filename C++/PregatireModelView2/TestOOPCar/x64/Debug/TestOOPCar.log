@@ -1,0 +1,7 @@
+﻿  TestOOPCar.cpp
+C:\Users\Andreea\source\repos\TestOOPCar\TestOOPCar\TestOOPCar.cpp(1,1): warning C4828: The file contains a character starting at offset 0x369 that is illegal in the current source character set (codepage 65001).
+C:\Users\Andreea\source\repos\TestOOPCar\TestOOPCar\TestOOPCar.cpp(1,1): warning C4828: The file contains a character starting at offset 0x3b1 that is illegal in the current source character set (codepage 65001).
+C:\Users\Andreea\source\repos\TestOOPCar\TestOOPCar\TestOOPCar.cpp(1,1): warning C4828: The file contains a character starting at offset 0x492 that is illegal in the current source character set (codepage 65001).
+C:\Users\Andreea\source\repos\TestOOPCar\TestOOPCar\TestOOPCar.cpp(1,1): warning C4828: The file contains a character starting at offset 0x4da that is illegal in the current source character set (codepage 65001).
+  moc_TestOOPCar.cpp
+  TestOOPCar.vcxproj -> C:\Users\Andreea\source\repos\TestOOPCar\x64\Debug\TestOOPCar.exe
