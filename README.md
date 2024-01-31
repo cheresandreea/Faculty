@@ -10,7 +10,7 @@
 * :frog: Data Structures and Algorithms
 * :clap: Object Oriented Programming
 * :brain: Dynamical Systems
-* :dizzy: Graph Algorithms
+* :dizzy: [Graph Algorithms](https://github.com/cheresandreea/Faculty/tree/main/Graphs)
 * :jigsaw: Geometry
 
 ### :rosette: Semester 3
