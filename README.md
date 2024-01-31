@@ -8,7 +8,7 @@
 
 ### :tulip: Semester 2
 * :frog: Data Structures and Algorithms
-* :clap: Object Oriented Programming
+* :clap: [Object Oriented Programming](https://github.com/cheresandreea/Faculty/tree/main/C%2B%2B)
 * :brain: Dynamical Systems
 * :dizzy: [Graph Algorithms](https://github.com/cheresandreea/Faculty/tree/main/Graphs)
 * :jigsaw: Geometry
