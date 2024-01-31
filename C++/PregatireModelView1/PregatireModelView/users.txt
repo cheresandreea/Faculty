@@ -1,0 +1,5 @@
+Ana,programmer
+Maria,programmer
+Vlad,tester
+Marius,tester
+Ioana,programmer

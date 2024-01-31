@@ -1,0 +1,3 @@
+issue3,open,Vlad,Maria
+issue2,closed,Marius,Ana
+issue1,open,Vlad,Ioana
