@@ -1,0 +1,7 @@
+Pitbull,Nero,5,https://cdn.pixabay.com/photo/2017/02/08/01/39/pitbull-2047469_1280.jpg
+Chiuaua,Miki,4,https://supervetsolutions.ro/wp-content/uploads/2020/06/3027438-1920x1920.jpg
+Pug,Limo,2,https://c.files.bbci.co.uk/17444/production/_124800359_gettyimages-817514614.jpg
+Poodle,Terra,1,https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-08/Toy-Poodle.jpg?itok=NHmD9IwH
+Bulldog,Caro,3,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwP1IFAnmVZPiq92NA09giCc3WEqbYa4Jejw&usqp=CAU
+Chowchow,Momo,5,https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F05%2F20%2Fchow-chow-white-grass-1273546050-2000.jpg
+Pitbul,Luna,4,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jJ1peyEUHAzKHFZQ4Zeip2BeIO7fzh0RNLkBh7LxBjAu-daU0GQs4Ju1Fx5ivDrQY5s&usqp=CAU
