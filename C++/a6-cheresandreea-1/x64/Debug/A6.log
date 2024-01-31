@@ -1,0 +1,2 @@
+﻿D:\C++\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (A45.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+LINK : fatal error LNK1168: cannot open C:\Users\Andreea\source\repos\a6-cheresandreea-1\x64\Debug\A6.exe for writing

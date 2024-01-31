@@ -1,0 +1,16 @@
+﻿D:\C++\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (A45.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Dog.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Dog.cpp': No such file or directory
+  Repo.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Repo.cpp': No such file or directory
+  Service.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Service.cpp': No such file or directory
+  Tests.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Tests.cpp': No such file or directory
+  UI.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'UI.cpp': No such file or directory
+  Vector.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'Vector.cpp': No such file or directory
+  start.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'start.cpp': No such file or directory
+  Generating Code...
