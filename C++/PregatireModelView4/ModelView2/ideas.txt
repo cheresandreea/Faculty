@@ -1,0 +1,4 @@
+d1,proposed,Maria,1
+d2,accepted,Tudor,3
+d3,proposed,Vlad,2
+d4,accepted,Andreea,2
