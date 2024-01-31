@@ -1,0 +1,8 @@
+﻿  A1.c
+C:\Users\Andreea\source\repos\a1-cheresandreea-1\A1.c(23): warning C4716: 'afisare': must return a value
+C:\Users\Andreea\source\repos\a1-cheresandreea-1\A1.c(16): warning C4716: 'citire': must return a value
+C:\Users\Andreea\source\repos\a1-cheresandreea-1\A1.c(33): warning C4700: uninitialized local variable 'lg' used
+C:\Users\Andreea\source\repos\a1-cheresandreea-1\A1.c(34): warning C4700: uninitialized local variable 'sum' used
+C:\Users\Andreea\source\repos\a1-cheresandreea-1\A1.c(40): warning C4700: uninitialized local variable 'lgmax' used
+A1.obj : error LNK2019: unresolved external symbol prinf referenced in function main
+C:\Users\Andreea\source\repos\a1-cheresandreea-1\x64\Debug\A1.exe : fatal error LNK1120: 1 unresolved externals
