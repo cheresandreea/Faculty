@@ -1,0 +1,5 @@
+Digi Sport;OA33;75.00;false
+E-ON;EED3;122.0;true
+Orange;X990;46.00;false
+Vodafone;VOD1;23.00;true
+Orange;TRE3;10.00;false

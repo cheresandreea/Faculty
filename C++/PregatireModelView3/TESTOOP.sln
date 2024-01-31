@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TESTOOP", "TESTOOP\TESTOOP.vcxproj", "{B0B949B3-ECA1-4EAC-BB63-38E84F3BE1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B949B3-ECA1-4EAC-BB63-38E84F3BE1BB}.Debug|x64.ActiveCfg = Debug|x64
+		{B0B949B3-ECA1-4EAC-BB63-38E84F3BE1BB}.Debug|x64.Build.0 = Debug|x64
+		{B0B949B3-ECA1-4EAC-BB63-38E84F3BE1BB}.Release|x64.ActiveCfg = Release|x64
+		{B0B949B3-ECA1-4EAC-BB63-38E84F3BE1BB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143379DB-9A29-417B-986F-6E2029660AD7}
+	EndGlobalSection
+EndGlobal
