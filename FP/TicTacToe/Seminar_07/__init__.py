@@ -1,0 +1,13 @@
+"""
+1. Modular programming
+2. Test - driven development
+3. Exceptions
+4. Command - driven UI
+
+Tic Tac Toe - human vs. computer
+    play 5 (5 th square on the board)
+    play top middle
+    play 1, 1
+    play B2
+
+"""
