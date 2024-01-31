@@ -1,0 +1,2475 @@
+2505 double
+ Coman Adrian 2022-12-01 2022-12-11
+3101
+ single
+ Bob Paul 2022-03-19 2022-05-19
+104
+ single
+ Dei Paul 2022-11-09 2022-11-15
+4704
+ double
+ Coman Adrian 2022-10-09 2022-10-27
+7705 double
+ Alb Carmen 2022-10-16 2022-11-25
+4002
+ single
+ Bob Anda 2022-11-18 2022-11-25
+5805 double
+ Alb Carmen 2022-04-19 2022-06-26
+8804
+ double
+ Bob Marius 2022-01-13 2022-01-17
+1602
+ single
+ Alb Anda 2022-02-21 2022-04-24
+1602
+ single
+ Coman Anda 2022-03-05 2022-12-08
+7204
+ single
+ Alb Adrian 2022-03-09 2022-10-21
+3105 family Bob Marius 2022-12-07 2022-12-14
+2804
+ single
+ Bob Carmen 2022-06-22 2022-07-26
+3905 double
+ Alb Paul 2022-01-19 2022-11-19
+8903
+ family Man Carmen 2022-10-20 2022-10-28
+3605 double
+ Alb Paul 2022-04-15 2022-04-25
+4301
+ double
+ Alb Adrian 2022-08-26 2022-08-28
+9804
+ single
+ Coman Carmen 2022-02-05 2022-09-17
+5504
+ single
+ Coman Adrian 2022-05-18 2022-07-24
+403
+ double
+ Alb Paul 2022-06-19 2022-08-25
+501
+ single
+ Alb Marius 2022-05-03 2022-08-12
+10005 double
+ Bob Adrian 2022-03-07 2022-10-27
+8205 single
+ Man Carmen 2022-11-07 2022-11-22
+7703
+ family Coman Adrian 2022-05-21 2022-12-24
+1801
+ double
+ Bob Paul 2022-07-16 2022-12-18
+2505 double
+ Alb Paul 2022-09-27 2022-09-28
+3805 family Dei Marius 2022-08-03 2022-10-25
+903
+ double
+ Bob Adrian 2022-07-16 2022-08-24
+9904
+ family Bob Paul 2022-08-05 2022-10-19
+8604
+ family Dei Anda 2022-08-18 2022-12-23
+5901
+ double
+ Dei Carmen 2022-11-26 2022-11-28
+2603
+ double
+ Dei Marius 2022-10-11 2022-11-28
+2504
+ family Man Paul 2022-11-22 2022-12-28
+3304
+ family Dei Paul 2022-02-12 2022-12-26
+8005 single
+ Dei Carmen 2022-05-04 2022-12-10
+005 single
+ Man Marius 2022-05-09 2022-07-12
+2901
+ double
+ Alb Anda 2022-11-04 2022-12-06
+3204
+ family Bob Anda 2022-09-19 2022-10-21
+7504
+ single
+ Coman Anda 2022-10-10 2022-10-23
+604
+ family Bob Carmen 2022-06-03 2022-08-21
+6501
+ family Dei Anda 2022-12-17 2022-12-27
+7304
+ family Alb Adrian 2022-12-16 2022-12-20
+2005 family Coman Adrian 2022-10-18 2022-10-21
+1705 family Dei Paul 2022-03-24 2022-12-27
+9902
+ double
+ Man Carmen 2022-07-24 2022-08-27
+5705 single
+ Man Marius 2022-07-09 2022-09-14
+3203
+ single
+ Coman Adrian 2022-05-20 2022-08-24
+4702
+ family Man Anda 2022-07-02 2022-12-14
+4804
+ single
+ Alb Carmen 2022-11-08 2022-12-08
+7301
+ single
+ Alb Anda 2022-10-03 2022-10-06
+3603
+ family Man Carmen 2022-02-07 2022-05-20
+3203
+ family Man Adrian 2022-03-18 2022-04-19
+7903
+ double
+ Dei Paul 2022-04-11 2022-11-19
+2201
+ double
+ Man Paul 2022-03-28 2022-08-28
+5104
+ family Bob Adrian 2022-02-21 2022-04-25
+003
+ double
+ Alb Anda 2022-02-18 2022-04-18
+301
+ double
+ Alb Adrian 2022-09-18 2022-09-19
+9502
+ family Dei Anda 2022-02-20 2022-07-25
+8705 family Dei Anda 2022-07-14 2022-10-24
+6004
+ family Man Adrian 2022-03-07 2022-12-17
+6404
+ single
+ Bob Anda 2022-10-27 2022-10-28
+8202
+ family Man Paul 2022-07-09 2022-10-19
+9304
+ single
+ Alb Paul 2022-08-20 2022-10-26
+301
+ single
+ Man Carmen 2022-07-22 2022-10-23
+5305 double
+ Man Paul 2022-04-20 2022-04-28
+603
+ double
+ Man Marius 2022-08-18 2022-09-20
+8603
+ single
+ Man Adrian 2022-01-26 2022-05-27
+3001
+ double
+ Dei Carmen 2022-05-17 2022-11-26
+4203
+ double
+ Man Carmen 2022-02-25 2022-06-25
+3105 single
+ Alb Anda 2022-10-28 2022-11-28
+9704
+ family Man Adrian 2022-04-02 2022-11-19
+3905 single
+ Man Anda 2022-07-01 2022-07-27
+9005 double
+ Bob Anda 2022-10-17 2022-12-20
+6304
+ single
+ Bob Anda 2022-08-07 2022-12-12
+2801
+ single
+ Alb Paul 2022-11-07 2022-12-08
+9301
+ family Bob Carmen 2022-08-02 2022-09-02
+1605 family Dei Adrian 2022-07-12 2022-12-20
+6501
+ single
+ Dei Carmen 2022-07-01 2022-10-05
+1301
+ family Man Marius 2022-07-23 2022-11-24
+9102
+ double
+ Coman Paul 2022-08-15 2022-08-17
+5804
+ double
+ Man Carmen 2022-10-06 2022-12-25
+1305 single
+ Man Anda 2022-01-02 2022-12-28
+902
+ double
+ Man Marius 2022-04-23 2022-12-24
+4001
+ family Alb Marius 2022-06-18 2022-12-18
+1603
+ family Coman Paul 2022-01-23 2022-04-27
+5105 single
+ Dei Marius 2022-05-20 2022-05-23
+601
+ family Alb Anda 2022-07-15 2022-11-18
+7504
+ family Alb Adrian 2022-10-14 2022-12-15
+005 family Man Carmen 2022-10-05 2022-12-17
+5605 double
+ Man Marius 2022-06-24 2022-12-26
+5904
+ family Coman Adrian 2022-10-08 2022-12-21
+804
+ double
+ Coman Anda 2022-05-01 2022-11-12
+1504
+ double
+ Alb Paul 2022-10-26 2022-10-26
+9104
+ single
+ Bob Carmen 2022-12-24 2022-12-27
+8503
+ single
+ Man Carmen 2022-07-04 2022-07-16
+1602
+ family Alb Paul 2022-07-28 2022-09-28
+8704
+ double
+ Alb Marius 2022-07-11 2022-08-16
+8301
+ family Bob Paul 2022-10-06 2022-10-10
+2401
+ double
+ Alb Adrian 2022-09-24 2022-11-27
+7801
+ single
+ Bob Carmen 2022-06-19 2022-11-20
+6003
+ double
+ Dei Paul 2022-10-18 2022-11-26
+6805 family Alb Adrian 2022-09-11 2022-11-25
+5403
+ double
+ Coman Marius 2022-05-01 2022-08-21
+2505 single
+ Bob Carmen 2022-03-13 2022-07-19
+1104
+ single
+ Dei Paul 2022-08-13 2022-08-19
+4705 single
+ Dei Marius 2022-07-13 2022-07-15
+8802
+ single
+ Bob Anda 2022-09-28 2022-12-28
+3703
+ double
+ Alb Carmen 2022-05-01 2022-06-16
+9305 single
+ Man Paul 2022-10-21 2022-11-27
+8204
+ family Dei Adrian 2022-08-06 2022-12-15
+5605 double
+ Man Marius 2022-10-18 2022-10-28
+7404
+ single
+ Dei Adrian 2022-12-14 2022-12-20
+5701
+ family Man Marius 2022-02-08 2022-06-10
+6503
+ single
+ Dei Anda 2022-05-25 2022-10-28
+5002
+ double
+ Bob Anda 2022-07-10 2022-11-21
+2805 double
+ Alb Marius 2022-10-03 2022-12-10
+3505 double
+ Bob Adrian 2022-09-09 2022-11-19
+4804
+ single
+ Bob Anda 2022-03-05 2022-09-06
+6402
+ family Alb Paul 2022-06-06 2022-10-13
+4801
+ double
+ Bob Carmen 2022-02-24 2022-05-24
+5403
+ family Coman Paul 2022-05-14 2022-08-14
+5603
+ family Coman Anda 2022-05-07 2022-12-21
+2103
+ family Bob Adrian 2022-06-13 2022-07-21
+1303
+ double
+ Alb Carmen 2022-05-01 2022-12-13
+3105 family Man Paul 2022-05-07 2022-12-15
+3801
+ double
+ Bob Adrian 2022-10-14 2022-11-21
+3005 single
+ Dei Carmen 2022-07-17 2022-08-23
+5503
+ double
+ Dei Anda 2022-02-28 2022-04-28
+9205 double
+ Man Anda 2022-06-26 2022-10-28
+9605 single
+ Bob Carmen 2022-08-23 2022-11-27
+7405 family Alb Marius 2022-06-16 2022-11-28
+7002
+ family Coman Anda 2022-03-12 2022-07-28
+1305 family Dei Paul 2022-10-21 2022-10-24
+7105 double
+ Coman Anda 2022-04-15 2022-12-24
+6203
+ family Coman Paul 2022-11-14 2022-12-19
+7101
+ single
+ Alb Marius 2022-06-09 2022-12-13
+7902
+ family Dei Adrian 2022-10-03 2022-11-05
+8401
+ family Man Marius 2022-05-04 2022-10-21
+5503
+ single
+ Alb Anda 2022-06-22 2022-07-26
+8701
+ family Alb Carmen 2022-02-08 2022-12-16
+6702
+ family Alb Anda 2022-05-09 2022-05-16
+9104
+ double
+ Coman Carmen 2022-04-17 2022-04-25
+6202
+ family Bob Paul 2022-07-07 2022-07-18
+6202
+ single
+ Man Anda 2022-03-28 2022-07-28
+8403
+ family Alb Anda 2022-01-18 2022-02-28
+004
+ family Dei Paul 2022-09-03 2022-11-21
+9105 family Dei Marius 2022-05-21 2022-11-24
+10003
+ single
+ Coman Paul 2022-08-06 2022-08-28
+5304
+ family Alb Adrian 2022-09-10 2022-11-13
+5902
+ family Bob Adrian 2022-05-24 2022-12-27
+2403
+ single
+ Dei Paul 2022-11-27 2022-11-28
+4305 family Alb Adrian 2022-10-27 2022-11-27
+2803
+ single
+ Bob Anda 2022-04-26 2022-12-27
+9405 double
+ Coman Anda 2022-09-15 2022-09-27
+601
+ single
+ Dei Anda 2022-05-13 2022-07-24
+7101
+ single
+ Coman Carmen 2022-06-07 2022-07-23
+9304
+ single
+ Bob Marius 2022-06-16 2022-12-17
+3603
+ double
+ Bob Adrian 2022-12-14 2022-12-27
+4903
+ double
+ Coman Anda 2022-04-15 2022-08-18
+2804
+ single
+ Dei Marius 2022-07-20 2022-12-21
+7003
+ double
+ Alb Marius 2022-05-02 2022-11-02
+1605 family Man Carmen 2022-12-13 2022-12-21
+5901
+ single
+ Alb Anda 2022-05-24 2022-06-25
+5304
+ double
+ Bob Carmen 2022-10-07 2022-12-19
+7102
+ single
+ Coman Anda 2022-04-10 2022-11-24
+2104
+ single
+ Alb Adrian 2022-05-28 2022-09-28
+3604
+ single
+ Dei Marius 2022-06-06 2022-08-15
+7802
+ single
+ Alb Carmen 2022-05-27 2022-08-28
+9704
+ single
+ Man Marius 2022-01-19 2022-04-20
+4402
+ single
+ Bob Anda 2022-12-14 2022-12-20
+9501
+ single
+ Man Anda 2022-09-14 2022-09-22
+1604
+ family Alb Marius 2022-04-12 2022-07-26
+3101
+ double
+ Alb Carmen 2022-07-23 2022-11-23
+5105 double
+ Coman Anda 2022-08-27 2022-08-27
+6502
+ double
+ Dei Marius 2022-11-05 2022-12-07
+7201
+ single
+ Coman Anda 2022-03-10 2022-05-19
+3605 family Dei Paul 2022-08-09 2022-09-21
+6703
+ double
+ Man Paul 2022-05-06 2022-05-20
+6603
+ family Man Adrian 2022-02-04 2022-06-16
+6605 single
+ Alb Carmen 2022-02-13 2022-03-14
+4302
+ double
+ Bob Paul 2022-11-24 2022-12-28
+9102
+ family Bob Marius 2022-08-22 2022-09-24
+4704
+ double
+ Man Anda 2022-05-07 2022-05-10
+6003
+ double
+ Dei Paul 2022-11-26 2022-11-28
+3104
+ family Alb Marius 2022-01-18 2022-12-20
+6802
+ double
+ Bob Carmen 2022-12-03 2022-12-18
+6403
+ double
+ Coman Anda 2022-11-01 2022-12-06
+5604
+ family Dei Adrian 2022-12-08 2022-12-25
+3504
+ family Coman Marius 2022-11-27 2022-12-28
+6501
+ single
+ Man Anda 2022-04-16 2022-06-19
+202
+ family Alb Marius 2022-05-23 2022-09-23
+6403
+ single
+ Alb Carmen 2022-10-14 2022-10-14
+4704
+ family Alb Adrian 2022-12-20 2022-12-27
+2301
+ single
+ Man Anda 2022-02-17 2022-02-18
+704
+ double
+ Coman Adrian 2022-03-20 2022-04-20
+6301
+ double
+ Coman Carmen 2022-07-06 2022-11-07
+9004
+ single
+ Coman Marius 2022-07-03 2022-11-06
+9801
+ family Alb Carmen 2022-06-08 2022-08-15
+4204
+ single
+ Bob Anda 2022-03-19 2022-09-22
+4301
+ family Dei Adrian 2022-02-20 2022-07-25
+7003
+ family Coman Marius 2022-06-08 2022-11-19
+5502
+ family Dei Marius 2022-03-16 2022-08-19
+4503
+ single
+ Alb Marius 2022-02-02 2022-08-06
+6805 single
+ Dei Paul 2022-12-03 2022-12-27
+3404
+ family Man Anda 2022-04-24 2022-10-28
+7601
+ double
+ Coman Carmen 2022-02-14 2022-05-24
+2202
+ family Man Adrian 2022-02-09 2022-09-22
+6501
+ double
+ Bob Adrian 2022-03-14 2022-06-28
+8802
+ double
+ Dei Paul 2022-10-22 2022-12-24
+3802
+ double
+ Dei Carmen 2022-01-23 2022-11-25
+1105 double
+ Alb Paul 2022-01-23 2022-05-23
+5201
+ single
+ Dei Carmen 2022-09-19 2022-11-19
+7805 single
+ Man Carmen 2022-05-08 2022-09-14
+2403
+ family Dei Paul 2022-09-03 2022-11-19
+7701
+ single
+ Dei Adrian 2022-02-10 2022-11-19
+503
+ double
+ Man Marius 2022-01-17 2022-06-25
+5103
+ double
+ Coman Paul 2022-02-06 2022-05-19
+3603
+ single
+ Coman Adrian 2022-12-14 2022-12-28
+201
+ double
+ Bob Paul 2022-10-19 2022-12-20
+9504
+ family Dei Adrian 2022-12-13 2022-12-17
+9003
+ single
+ Alb Carmen 2022-06-18 2022-06-21
+3701
+ double
+ Alb Paul 2022-06-28 2022-06-28
+9603
+ double
+ Coman Adrian 2022-09-25 2022-09-25
+3402
+ single
+ Coman Marius 2022-10-06 2022-10-23
+1902
+ single
+ Coman Paul 2022-09-26 2022-11-27
+4904
+ double
+ Man Adrian 2022-08-08 2022-08-18
+8604
+ double
+ Man Carmen 2022-06-19 2022-09-20
+8402
+ family Coman Adrian 2022-01-20 2022-09-25
+2305 double
+ Alb Marius 2022-03-16 2022-04-22
+7801
+ single
+ Bob Carmen 2022-02-10 2022-12-25
+5904
+ double
+ Coman Carmen 2022-09-11 2022-10-26
+8803
+ double
+ Bob Paul 2022-06-13 2022-11-21
+1105 single
+ Man Adrian 2022-12-17 2022-12-20
+7901
+ family Coman Paul 2022-03-07 2022-09-26
+3205 family Alb Paul 2022-06-28 2022-09-28
+8804
+ family Bob Adrian 2022-02-07 2022-10-09
+9004
+ double
+ Dei Paul 2022-01-07 2022-06-28
+4601
+ family Alb Paul 2022-08-15 2022-12-25
+5004
+ single
+ Dei Marius 2022-02-04 2022-10-21
+4203
+ family Man Adrian 2022-08-26 2022-08-27
+2605 single
+ Coman Adrian 2022-12-10 2022-12-13
+7603
+ single
+ Bob Paul 2022-08-17 2022-12-17
+2504
+ family Bob Paul 2022-01-01 2022-10-21
+6103
+ single
+ Man Adrian 2022-09-18 2022-12-21
+905 single
+ Bob Adrian 2022-10-11 2022-12-13
+7003
+ single
+ Man Adrian 2022-10-12 2022-12-12
+9904
+ single
+ Dei Marius 2022-03-14 2022-06-18
+005 family Bob Paul 2022-07-11 2022-11-13
+9305 single
+ Man Marius 2022-04-02 2022-05-27
+6301
+ single
+ Coman Adrian 2022-11-21 2022-11-22
+6001
+ family Dei Paul 2022-01-21 2022-03-27
+2402
+ family Dei Anda 2022-05-23 2022-07-27
+7902
+ family Dei Paul 2022-10-03 2022-10-26
+5403
+ single
+ Coman Paul 2022-04-09 2022-11-19
+9104
+ double
+ Dei Anda 2022-09-21 2022-10-24
+5505 single
+ Alb Carmen 2022-10-08 2022-10-26
+9803
+ single
+ Dei Adrian 2022-04-06 2022-07-20
+8603
+ family Bob Paul 2022-07-25 2022-07-28
+3802
+ double
+ Alb Adrian 2022-04-08 2022-12-23
+3201
+ double
+ Man Marius 2022-11-01 2022-12-26
+2703
+ family Alb Paul 2022-09-20 2022-11-28
+003
+ single
+ Man Carmen 2022-08-17 2022-09-21
+703
+ double
+ Dei Anda 2022-09-05 2022-09-18
+1703
+ double
+ Bob Paul 2022-10-23 2022-11-26
+3705 family Man Paul 2022-10-14 2022-12-18
+1401
+ double
+ Alb Paul 2022-06-26 2022-09-28
+1203
+ family Coman Carmen 2022-11-22 2022-12-28
+4605 family Bob Anda 2022-02-06 2022-04-28
+2304
+ family Bob Anda 2022-08-14 2022-09-24
+8603
+ double
+ Alb Paul 2022-07-24 2022-08-27
+305 double
+ Bob Anda 2022-09-07 2022-09-22
+1601
+ single
+ Man Anda 2022-08-22 2022-10-24
+4802
+ single
+ Alb Adrian 2022-09-13 2022-09-22
+6905 family Dei Carmen 2022-07-13 2022-12-14
+7802
+ single
+ Bob Anda 2022-07-27 2022-11-28
+5302
+ single
+ Bob Carmen 2022-04-13 2022-09-26
+3101
+ family Man Carmen 2022-02-15 2022-10-27
+4401
+ single
+ Alb Marius 2022-08-06 2022-11-19
+6501
+ single
+ Man Adrian 2022-05-20 2022-06-23
+7005 double
+ Alb Paul 2022-02-11 2022-08-16
+7705 family Man Adrian 2022-11-21 2022-11-22
+4401
+ single
+ Bob Adrian 2022-12-04 2022-12-14
+4805 double
+ Alb Anda 2022-04-27 2022-12-27
+6602
+ double
+ Man Anda 2022-11-11 2022-12-25
+502
+ double
+ Dei Anda 2022-07-08 2022-11-08
+2401
+ family Man Marius 2022-07-08 2022-09-15
+2705 single
+ Coman Marius 2022-12-23 2022-12-28
+3101
+ family Dei Adrian 2022-01-26 2022-06-27
+5604
+ family Coman Marius 2022-08-03 2022-12-20
+101
+ double
+ Bob Paul 2022-04-09 2022-04-21
+4205 single
+ Man Marius 2022-11-18 2022-11-27
+1304
+ single
+ Alb Paul 2022-03-16 2022-07-16
+503
+ single
+ Man Paul 2022-09-10 2022-11-13
+2105 family Man Paul 2022-02-06 2022-12-24
+8503
+ family Man Carmen 2022-09-06 2022-10-26
+5905 single
+ Coman Marius 2022-05-05 2022-11-22
+904
+ single
+ Bob Paul 2022-03-13 2022-03-24
+9001
+ family Alb Anda 2022-11-23 2022-11-27
+8201
+ single
+ Dei Carmen 2022-03-13 2022-04-15
+8205 family Dei Paul 2022-11-18 2022-11-28
+3901
+ single
+ Alb Anda 2022-12-15 2022-12-15
+4703
+ single
+ Bob Adrian 2022-03-11 2022-06-27
+4104
+ double
+ Coman Marius 2022-07-26 2022-09-28
+2901
+ double
+ Coman Marius 2022-08-15 2022-08-25
+3603
+ family Bob Paul 2022-10-12 2022-11-16
+4305 single
+ Dei Marius 2022-02-24 2022-10-26
+2104
+ family Alb Anda 2022-09-15 2022-09-19
+1902
+ single
+ Man Adrian 2022-01-07 2022-08-27
+7103
+ single
+ Man Anda 2022-06-05 2022-10-05
+7803
+ double
+ Coman Carmen 2022-07-02 2022-12-11
+003
+ double
+ Bob Adrian 2022-06-01 2022-12-17
+6102
+ single
+ Man Marius 2022-09-26 2022-10-27
+6705 family Dei Paul 2022-10-27 2022-10-28
+3602
+ double
+ Bob Anda 2022-12-01 2022-12-14
+8705 single
+ Dei Paul 2022-05-02 2022-10-22
+7105 family Dei Anda 2022-02-13 2022-02-27
+2103
+ family Alb Marius 2022-08-03 2022-12-19
+7204
+ family Man Marius 2022-06-23 2022-09-25
+6905 double
+ Alb Adrian 2022-12-21 2022-12-24
+4405 family Man Paul 2022-07-26 2022-07-27
+7701
+ family Alb Adrian 2022-05-05 2022-09-22
+8002
+ double
+ Bob Anda 2022-06-21 2022-09-25
+3901
+ double
+ Coman Anda 2022-09-19 2022-11-20
+303
+ single
+ Man Adrian 2022-06-11 2022-06-13
+8805 family Man Paul 2022-10-20 2022-11-26
+4201
+ double
+ Man Marius 2022-09-03 2022-11-06
+5401
+ double
+ Dei Marius 2022-04-09 2022-12-13
+1902
+ single
+ Man Adrian 2022-06-17 2022-06-19
+9303
+ family Man Carmen 2022-05-26 2022-06-26
+8404
+ double
+ Alb Marius 2022-03-14 2022-06-19
+7702
+ family Dei Carmen 2022-01-27 2022-09-28
+7904
+ single
+ Bob Anda 2022-01-13 2022-12-15
+2903
+ single
+ Dei Anda 2022-08-17 2022-08-28
+9104
+ family Dei Anda 2022-07-15 2022-10-21
+10001
+ double
+ Coman Paul 2022-11-23 2022-12-28
+1404
+ single
+ Dei Paul 2022-06-16 2022-12-24
+7901
+ double
+ Bob Paul 2022-04-09 2022-06-19
+7204
+ double
+ Coman Anda 2022-09-13 2022-11-25
+4404
+ single
+ Man Anda 2022-08-15 2022-12-27
+2805 single
+ Dei Paul 2022-10-27 2022-10-28
+704
+ family Bob Carmen 2022-02-04 2022-04-19
+6903
+ double
+ Man Marius 2022-11-25 2022-12-27
+4704
+ single
+ Man Anda 2022-04-21 2022-04-27
+2104
+ single
+ Man Paul 2022-11-10 2022-12-13
+6403
+ double
+ Bob Carmen 2022-06-17 2022-10-26
+5302
+ single
+ Coman Adrian 2022-01-23 2022-11-25
+5804
+ single
+ Dei Marius 2022-06-10 2022-06-27
+8101
+ family Bob Anda 2022-03-06 2022-04-27
+302
+ family Man Adrian 2022-06-02 2022-12-10
+1501
+ single
+ Man Marius 2022-03-10 2022-04-14
+6502
+ family Dei Adrian 2022-10-23 2022-12-25
+2202
+ single
+ Alb Paul 2022-03-19 2022-09-24
+9105 double
+ Alb Anda 2022-05-22 2022-12-28
+5404
+ double
+ Dei Marius 2022-08-20 2022-11-23
+2604
+ family Man Marius 2022-11-21 2022-12-27
+5503
+ single
+ Alb Anda 2022-01-06 2022-02-15
+8802
+ double
+ Dei Marius 2022-05-11 2022-12-18
+1905 family Bob Paul 2022-06-20 2022-12-28
+5802
+ single
+ Dei Adrian 2022-06-12 2022-08-27
+5801
+ single
+ Alb Adrian 2022-07-25 2022-11-28
+1401
+ double
+ Bob Carmen 2022-01-02 2022-06-05
+3201
+ family Man Paul 2022-02-11 2022-11-24
+5405 family Dei Marius 2022-01-23 2022-02-26
+9501
+ single
+ Coman Carmen 2022-09-12 2022-11-18
+7904
+ single
+ Dei Marius 2022-03-19 2022-08-23
+7705 single
+ Dei Adrian 2022-06-10 2022-12-20
+1805 double
+ Bob Anda 2022-02-16 2022-06-24
+7502
+ double
+ Bob Carmen 2022-05-09 2022-08-27
+5402
+ single
+ Bob Marius 2022-03-26 2022-11-26
+1103
+ family Bob Anda 2022-08-05 2022-08-21
+5504
+ family Alb Paul 2022-11-21 2022-12-22
+102
+ family Alb Marius 2022-10-12 2022-11-19
+403
+ single
+ Alb Marius 2022-04-28 2022-09-28
+7901
+ family Bob Carmen 2022-03-20 2022-04-22
+5003
+ double
+ Bob Paul 2022-05-23 2022-12-27
+9601
+ family Alb Marius 2022-06-11 2022-10-26
+8304
+ single
+ Bob Anda 2022-05-12 2022-05-21
+5404
+ family Bob Carmen 2022-12-28 2022-12-28
+6803
+ single
+ Alb Carmen 2022-10-10 2022-10-14
+3004
+ double
+ Dei Paul 2022-09-13 2022-10-23
+4301
+ single
+ Coman Anda 2022-09-10 2022-10-21
+4701
+ double
+ Bob Carmen 2022-07-05 2022-10-06
+6105 double
+ Dei Marius 2022-06-17 2022-09-22
+9102
+ single
+ Coman Adrian 2022-04-09 2022-08-14
+5805 double
+ Bob Paul 2022-05-15 2022-06-15
+6604
+ double
+ Alb Carmen 2022-11-14 2022-11-14
+3202
+ double
+ Man Carmen 2022-05-27 2022-12-27
+6005 family Man Carmen 2022-11-14 2022-12-21
+5901
+ family Coman Marius 2022-02-21 2022-12-22
+2205 family Bob Adrian 2022-04-03 2022-10-16
+9505 family Alb Adrian 2022-08-16 2022-11-18
+6505 single
+ Man Paul 2022-07-26 2022-10-28
+1305 single
+ Coman Carmen 2022-07-01 2022-11-03
+4804
+ single
+ Man Marius 2022-10-22 2022-10-24
+5004
+ family Alb Carmen 2022-10-12 2022-12-24
+5202
+ double
+ Alb Paul 2022-05-02 2022-10-21
+2801
+ family Alb Carmen 2022-12-02 2022-12-04
+1404
+ family Coman Paul 2022-01-12 2022-03-13
+5904
+ single
+ Bob Adrian 2022-05-27 2022-09-28
+102
+ family Dei Carmen 2022-06-13 2022-09-25
+901
+ double
+ Bob Marius 2022-01-22 2022-11-24
+3003
+ single
+ Alb Paul 2022-05-23 2022-08-24
+8405 single
+ Alb Marius 2022-06-02 2022-11-13
+7103
+ single
+ Dei Adrian 2022-02-21 2022-07-21
+3201
+ single
+ Coman Paul 2022-07-09 2022-10-28
+9801
+ single
+ Man Adrian 2022-05-22 2022-05-23
+102
+ single
+ Man Paul 2022-05-21 2022-10-23
+7404
+ family Bob Anda 2022-01-20 2022-10-20
+5802
+ double
+ Coman Adrian 2022-08-17 2022-11-18
+5804
+ single
+ Bob Adrian 2022-06-13 2022-06-16
+8601
+ double
+ Coman Marius 2022-10-14 2022-10-19
+4503
+ single
+ Man Carmen 2022-11-20 2022-12-28
+7204
+ single
+ Alb Paul 2022-06-11 2022-09-19
+6705 family Bob Paul 2022-03-25 2022-06-27
+6002
+ single
+ Man Adrian 2022-10-14 2022-10-20
+6805 family Bob Paul 2022-04-01 2022-07-11
+7703
+ family Bob Marius 2022-01-16 2022-05-20
+7905 double
+ Man Anda 2022-06-21 2022-11-21
+8301
+ double
+ Alb Paul 2022-10-06 2022-11-21
+7704
+ single
+ Alb Paul 2022-03-15 2022-03-27
+304
+ double
+ Man Marius 2022-06-25 2022-07-26
+1204
+ double
+ Alb Marius 2022-01-05 2022-08-22
+8201
+ double
+ Alb Marius 2022-12-23 2022-12-25
+4304
+ single
+ Alb Marius 2022-06-02 2022-11-18
+705 single
+ Alb Marius 2022-10-10 2022-11-11
+8404
+ single
+ Bob Anda 2022-02-25 2022-04-28
+3502
+ double
+ Coman Adrian 2022-11-11 2022-11-12
+6403
+ family Man Marius 2022-05-23 2022-08-24
+1802
+ family Bob Adrian 2022-06-06 2022-08-17
+1304
+ family Man Adrian 2022-01-07 2022-08-15
+7001
+ single
+ Bob Adrian 2022-08-21 2022-08-21
+8504
+ double
+ Alb Paul 2022-02-01 2022-08-14
+402
+ family Man Adrian 2022-04-26 2022-08-26
+4505 double
+ Alb Adrian 2022-06-26 2022-11-27
+4604
+ single
+ Man Carmen 2022-12-15 2022-12-24
+9002
+ double
+ Alb Marius 2022-11-22 2022-12-28
+3302
+ single
+ Man Marius 2022-03-08 2022-06-09
+002
+ double
+ Alb Anda 2022-06-02 2022-09-02
+2203
+ single
+ Alb Marius 2022-10-06 2022-10-21
+9304
+ family Alb Paul 2022-01-25 2022-11-28
+5405 family Dei Carmen 2022-10-25 2022-12-28
+5602
+ family Coman Marius 2022-08-03 2022-12-18
+4801
+ single
+ Bob Adrian 2022-12-16 2022-12-20
+7004
+ double
+ Man Anda 2022-05-05 2022-10-27
+1401
+ single
+ Bob Paul 2022-01-05 2022-10-08
+9903
+ single
+ Coman Adrian 2022-07-18 2022-10-25
+5802
+ double
+ Dei Adrian 2022-11-05 2022-12-19
+1104
+ family Dei Carmen 2022-12-09 2022-12-25
+5804
+ family Alb Paul 2022-05-27 2022-06-27
+7101
+ family Coman Marius 2022-05-06 2022-11-15
+5103
+ family Bob Marius 2022-11-08 2022-11-18
+1405 double
+ Alb Paul 2022-10-03 2022-12-26
+7104
+ single
+ Bob Anda 2022-09-07 2022-09-16
+1002
+ single
+ Dei Adrian 2022-07-19 2022-08-25
+8005 family Dei Carmen 2022-03-27 2022-04-28
+2804
+ single
+ Alb Marius 2022-06-05 2022-06-11
+1205 family Bob Paul 2022-10-17 2022-11-25
+1403
+ family Man Paul 2022-05-28 2022-05-28
+8502
+ single
+ Alb Marius 2022-02-19 2022-04-23
+7202
+ single
+ Dei Anda 2022-08-02 2022-10-02
+8202
+ single
+ Dei Carmen 2022-03-05 2022-04-24
+1204
+ single
+ Man Marius 2022-08-03 2022-10-20
+2702
+ double
+ Coman Carmen 2022-01-27 2022-06-28
+801
+ single
+ Coman Paul 2022-01-03 2022-01-27
+4602
+ single
+ Alb Adrian 2022-09-05 2022-12-26
+1305 family Man Adrian 2022-08-15 2022-09-15
+901
+ single
+ Man Paul 2022-12-01 2022-12-06
+701
+ double
+ Bob Carmen 2022-07-05 2022-09-20
+3805 double
+ Bob Anda 2022-07-12 2022-08-18
+3901
+ family Man Anda 2022-11-19 2022-12-19
+2701
+ family Bob Paul 2022-08-16 2022-11-16
+7905 single
+ Alb Paul 2022-09-16 2022-12-24
+804
+ double
+ Coman Adrian 2022-04-07 2022-11-08
+6801
+ double
+ Alb Marius 2022-04-17 2022-04-28
+9104
+ double
+ Dei Carmen 2022-03-03 2022-07-19
+9101
+ family Coman Marius 2022-06-16 2022-09-18
+2405 double
+ Alb Anda 2022-01-12 2022-01-23
+6205 single
+ Man Paul 2022-01-26 2022-04-27
+503
+ single
+ Coman Paul 2022-07-06 2022-11-18
+7803
+ family Bob Paul 2022-12-16 2022-12-18
+9103
+ family Coman Marius 2022-12-13 2022-12-22
+9104
+ family Man Marius 2022-05-05 2022-11-26
+9905 double
+ Coman Adrian 2022-01-22 2022-02-26
+2404
+ double
+ Alb Paul 2022-10-13 2022-11-22
+2701
+ single
+ Alb Adrian 2022-07-06 2022-07-09
+1501
+ single
+ Coman Marius 2022-07-25 2022-07-27
+6004
+ double
+ Bob Marius 2022-03-18 2022-04-25
+8102
+ family Coman Carmen 2022-02-18 2022-03-18
+7103
+ double
+ Dei Carmen 2022-12-25 2022-12-28
+1205 double
+ Alb Marius 2022-07-04 2022-08-14
+505 single
+ Man Marius 2022-10-13 2022-11-24
+1804
+ single
+ Dei Carmen 2022-04-19 2022-08-21
+6302
+ double
+ Man Carmen 2022-11-01 2022-11-03
+9901
+ double
+ Coman Paul 2022-08-03 2022-12-15
+9803
+ single
+ Coman Anda 2022-08-21 2022-12-28
+4302
+ double
+ Alb Paul 2022-05-21 2022-05-23
+2804
+ single
+ Bob Anda 2022-12-15 2022-12-18
+4602
+ single
+ Man Paul 2022-03-01 2022-12-06
+8301
+ single
+ Coman Marius 2022-12-26 2022-12-28
+4405 double
+ Alb Anda 2022-05-16 2022-05-24
+8005 double
+ Dei Paul 2022-05-11 2022-08-14
+4202
+ double
+ Alb Paul 2022-09-16 2022-10-19
+6101
+ double
+ Man Marius 2022-03-03 2022-09-05
+5302
+ family Alb Adrian 2022-01-15 2022-12-18
+6402
+ single
+ Alb Marius 2022-01-11 2022-11-14
+6601
+ double
+ Dei Marius 2022-08-24 2022-09-28
+9601
+ double
+ Alb Marius 2022-12-16 2022-12-25
+1203
+ single
+ Dei Paul 2022-02-22 2022-10-27
+9302
+ double
+ Dei Paul 2022-12-14 2022-12-25
+4101
+ double
+ Alb Marius 2022-03-19 2022-12-22
+9302
+ family Man Marius 2022-07-17 2022-09-26
+004
+ family Bob Paul 2022-01-17 2022-05-28
+3103
+ family Alb Carmen 2022-05-09 2022-12-25
+9003
+ double
+ Man Paul 2022-05-07 2022-09-23
+4003
+ family Dei Paul 2022-01-04 2022-03-19
+202
+ family Bob Carmen 2022-07-21 2022-10-27
+4602
+ double
+ Coman Marius 2022-01-27 2022-05-28
+8801
+ double
+ Man Paul 2022-09-03 2022-11-09
+1505 single
+ Coman Paul 2022-06-23 2022-09-25
+105 double
+ Bob Adrian 2022-08-13 2022-09-28
+7101
+ single
+ Coman Paul 2022-09-21 2022-12-24
+3504
+ single
+ Dei Paul 2022-01-14 2022-08-25
+9203
+ single
+ Bob Marius 2022-02-12 2022-06-17
+9004
+ family Dei Carmen 2022-07-15 2022-11-21
+8601
+ family Bob Anda 2022-10-14 2022-10-27
+2204
+ single
+ Bob Carmen 2022-12-14 2022-12-16
+8805 double
+ Man Anda 2022-10-19 2022-11-23
+2601
+ family Coman Marius 2022-04-09 2022-12-23
+1405 double
+ Dei Carmen 2022-07-19 2022-08-19
+8103
+ double
+ Alb Anda 2022-12-25 2022-12-26
+3104
+ family Man Carmen 2022-08-22 2022-08-23
+4302
+ family Bob Carmen 2022-12-05 2022-12-19
+9603
+ family Bob Marius 2022-01-10 2022-09-15
+5705 double
+ Man Carmen 2022-09-27 2022-09-27
+4901
+ double
+ Man Marius 2022-02-01 2022-10-03
+2102
+ single
+ Man Adrian 2022-05-07 2022-09-17
+2703
+ family Coman Adrian 2022-11-04 2022-11-06
+3501
+ double
+ Man Carmen 2022-09-05 2022-09-06
+102
+ single
+ Coman Paul 2022-02-04 2022-03-25
+1404
+ double
+ Bob Marius 2022-06-20 2022-09-28
+8603
+ double
+ Bob Marius 2022-06-22 2022-11-22
+8302
+ family Dei Anda 2022-10-25 2022-12-27
+5305 single
+ Man Marius 2022-04-22 2022-04-28
+901
+ double
+ Man Adrian 2022-02-09 2022-05-20
+5904
+ family Coman Adrian 2022-12-08 2022-12-20
+3803
+ double
+ Alb Paul 2022-04-21 2022-09-23
+9604
+ double
+ Alb Carmen 2022-12-28 2022-12-28
+7003
+ double
+ Dei Adrian 2022-06-18 2022-06-26
+3403
+ double
+ Dei Carmen 2022-02-04 2022-08-26
+5005 single
+ Alb Anda 2022-11-22 2022-11-24
+6302
+ family Alb Adrian 2022-10-24 2022-12-25
+5402
+ double
+ Man Paul 2022-10-12 2022-11-15
+7003
+ double
+ Alb Adrian 2022-04-28 2022-11-28
+6902
+ family Bob Adrian 2022-06-01 2022-08-11
+1404
+ double
+ Coman Marius 2022-12-06 2022-12-15
+9601
+ double
+ Coman Adrian 2022-04-15 2022-06-25
+2804
+ single
+ Bob Adrian 2022-01-15 2022-03-28
+1701
+ double
+ Coman Marius 2022-10-01 2022-11-02
+3801
+ family Coman Adrian 2022-01-10 2022-05-10
+5505 single
+ Bob Adrian 2022-09-06 2022-10-16
+4905 family Bob Carmen 2022-08-11 2022-09-28
+2503
+ single
+ Man Carmen 2022-10-15 2022-10-21
+8304
+ double
+ Bob Marius 2022-09-27 2022-09-27
+9403
+ double
+ Man Adrian 2022-06-07 2022-11-23
+4505 double
+ Man Marius 2022-09-17 2022-12-19
+6104
+ family Coman Adrian 2022-11-10 2022-11-16
+7904
+ family Man Adrian 2022-04-24 2022-09-25
+5402
+ double
+ Man Paul 2022-09-26 2022-09-26
+2002
+ single
+ Dei Anda 2022-01-27 2022-12-28
+4302
+ single
+ Alb Anda 2022-08-24 2022-09-24
+5705 single
+ Bob Carmen 2022-10-25 2022-12-27
+3801
+ family Alb Paul 2022-02-27 2022-08-27
+8503
+ double
+ Alb Carmen 2022-02-21 2022-07-25
+8904
+ double
+ Alb Marius 2022-05-27 2022-09-27
+1102
+ family Dei Marius 2022-05-16 2022-11-27
+7705 family Bob Adrian 2022-01-25 2022-01-28
+6904
+ single
+ Man Anda 2022-07-15 2022-08-21
+7405 single
+ Dei Paul 2022-08-26 2022-11-28
+8204
+ family Dei Paul 2022-11-05 2022-11-17
+1304
+ double
+ Man Carmen 2022-08-21 2022-12-27
+5201
+ double
+ Alb Carmen 2022-04-09 2022-05-25
+6301
+ family Alb Marius 2022-07-07 2022-11-22
+6705 double
+ Dei Paul 2022-02-21 2022-10-25
+4604
+ single
+ Bob Marius 2022-01-24 2022-04-24
+8901
+ double
+ Man Adrian 2022-03-25 2022-11-26
+4104
+ single
+ Bob Paul 2022-11-02 2022-12-13
+2901
+ double
+ Alb Adrian 2022-06-14 2022-11-15
+9701
+ family Bob Anda 2022-06-24 2022-06-27
+7801
+ double
+ Man Marius 2022-01-20 2022-03-21
+2705 double
+ Bob Paul 2022-01-02 2022-06-21
+2102
+ family Bob Carmen 2022-02-28 2022-11-28
+5903
+ family Man Paul 2022-11-06 2022-11-17
+5705 double
+ Bob Adrian 2022-11-18 2022-12-25
+3603
+ double
+ Bob Carmen 2022-02-08 2022-09-13
+3005 single
+ Coman Paul 2022-12-26 2022-12-26
+5504
+ family Coman Adrian 2022-10-06 2022-11-19
+8405 double
+ Man Marius 2022-06-21 2022-09-25
+8702
+ family Coman Anda 2022-05-26 2022-10-28
+3001
+ double
+ Man Marius 2022-06-07 2022-11-08
+2502
+ family Coman Marius 2022-05-05 2022-05-07
+5901
+ family Alb Marius 2022-11-04 2022-11-05
+4205 single
+ Dei Adrian 2022-04-28 2022-11-28
+6502
+ single
+ Dei Paul 2022-10-11 2022-10-13
+3405 double
+ Bob Adrian 2022-11-22 2022-11-26
+9405 single
+ Man Anda 2022-05-22 2022-12-27
+2604
+ single
+ Bob Carmen 2022-02-01 2022-06-07
+3304
+ double
+ Man Paul 2022-06-25 2022-09-27
+4602
+ family Alb Marius 2022-08-10 2022-12-17
+9401
+ single
+ Alb Paul 2022-05-06 2022-05-18
+6902
+ family Dei Adrian 2022-02-18 2022-06-20
+9402
+ single
+ Coman Carmen 2022-08-13 2022-09-13
+3902
+ family Coman Adrian 2022-01-25 2022-06-26
+8405 double
+ Alb Adrian 2022-05-25 2022-08-27
+2605 family Bob Anda 2022-10-09 2022-12-24
+304
+ single
+ Man Marius 2022-02-19 2022-08-24
+804
+ double
+ Dei Marius 2022-02-24 2022-04-24
+2702
+ double
+ Coman Carmen 2022-01-08 2022-05-20
+1605 family Man Marius 2022-08-07 2022-08-14
+9303
+ single
+ Bob Anda 2022-03-11 2022-11-24
+5704
+ double
+ Dei Adrian 2022-11-11 2022-12-11
+3503
+ family Coman Carmen 2022-03-26 2022-04-26
+3401
+ single
+ Coman Marius 2022-02-16 2022-03-27
+2704
+ double
+ Man Adrian 2022-06-03 2022-06-22
+2705 single
+ Coman Anda 2022-01-17 2022-08-21
+4304
+ single
+ Bob Adrian 2022-03-07 2022-05-09
+6501
+ family Dei Adrian 2022-03-06 2022-03-10
+1005 double
+ Coman Paul 2022-09-16 2022-11-28
+3904
+ single
+ Man Adrian 2022-05-06 2022-10-26
+4104
+ single
+ Dei Paul 2022-05-22 2022-08-24
+8701
+ family Alb Anda 2022-05-18 2022-12-24
+3804
+ double
+ Alb Anda 2022-10-03 2022-11-08
+7001
+ family Bob Marius 2022-06-17 2022-08-20
+3802
+ family Coman Marius 2022-04-28 2022-09-28
+3305 family Bob Paul 2022-07-12 2022-11-22
+7705 family Coman Carmen 2022-09-02 2022-09-10
+1905 family Bob Paul 2022-07-22 2022-09-26
+9302
+ double
+ Bob Marius 2022-07-05 2022-07-28
+3601
+ family Dei Marius 2022-06-06 2022-10-10
+9901
+ double
+ Man Adrian 2022-07-20 2022-07-24
+4003
+ family Coman Paul 2022-04-19 2022-09-26
+4401
+ family Man Anda 2022-04-18 2022-12-19
+7204
+ family Man Anda 2022-02-08 2022-05-15
+405 family Alb Paul 2022-09-22 2022-09-26
+2305 double
+ Man Adrian 2022-03-03 2022-04-24
+3001
+ single
+ Dei Adrian 2022-04-01 2022-04-15
+8402
+ family Coman Paul 2022-07-07 2022-10-07
+2002
+ single
+ Man Marius 2022-07-18 2022-07-19
+8803
+ double
+ Man Carmen 2022-11-22 2022-11-27
+4403
+ double
+ Alb Carmen 2022-09-02 2022-09-16
+2402
+ double
+ Dei Marius 2022-08-28 2022-11-28
+8601
+ double
+ Dei Anda 2022-05-15 2022-06-24
+9101
+ double
+ Bob Adrian 2022-12-02 2022-12-15
+1903
+ family Bob Anda 2022-06-22 2022-12-25
+5702
+ single
+ Bob Carmen 2022-08-26 2022-09-26
+704
+ single
+ Bob Adrian 2022-12-13 2022-12-16
+6305 single
+ Bob Carmen 2022-10-06 2022-12-22
+2803
+ family Alb Anda 2022-09-07 2022-09-26
+1504
+ family Alb Marius 2022-07-22 2022-09-28
+8301
+ double
+ Dei Marius 2022-09-20 2022-12-22
+3004
+ double
+ Alb Paul 2022-09-04 2022-12-12
+6004
+ single
+ Dei Marius 2022-09-20 2022-12-21
+2104
+ single
+ Coman Marius 2022-06-15 2022-11-26
+3505 single
+ Alb Paul 2022-12-07 2022-12-07
+4002
+ family Coman Adrian 2022-10-23 2022-12-23
+5503
+ family Coman Anda 2022-01-05 2022-01-19
+104
+ double
+ Alb Marius 2022-03-12 2022-03-21
+5601
+ double
+ Coman Carmen 2022-01-20 2022-04-25
+403
+ double
+ Bob Adrian 2022-09-12 2022-09-15
+7102
+ double
+ Coman Paul 2022-08-04 2022-08-18
+3404
+ single
+ Dei Adrian 2022-07-03 2022-12-14
+1701
+ double
+ Man Marius 2022-11-04 2022-11-22
+8701
+ double
+ Alb Marius 2022-10-22 2022-10-22
+1403
+ single
+ Alb Anda 2022-11-17 2022-12-28
+6501
+ double
+ Alb Marius 2022-08-04 2022-10-07
+7401
+ double
+ Dei Carmen 2022-07-11 2022-09-25
+4202
+ family Coman Adrian 2022-05-20 2022-09-20
+902
+ single
+ Alb Anda 2022-09-18 2022-09-19
+3803
+ family Alb Adrian 2022-03-22 2022-09-22
+4604
+ family Dei Marius 2022-11-16 2022-11-22
+2402
+ double
+ Alb Carmen 2022-08-17 2022-11-23
+9603
+ family Coman Paul 2022-05-12 2022-09-14
+2105 single
+ Bob Adrian 2022-07-04 2022-09-11
+5705 single
+ Coman Marius 2022-01-16 2022-07-27
+3005 family Dei Anda 2022-01-11 2022-05-27
+9104
+ single
+ Dei Paul 2022-02-13 2022-03-17
+3105 family Bob Adrian 2022-03-22 2022-08-26
+8701
+ family Dei Carmen 2022-03-13 2022-05-25
+8201
+ single
+ Man Paul 2022-07-22 2022-12-25
+3304
+ double
+ Dei Carmen 2022-07-14 2022-12-25
+4405 double
+ Dei Adrian 2022-07-11 2022-10-23
+7505 family Bob Paul 2022-12-25 2022-12-25
+403
+ single
+ Bob Marius 2022-10-09 2022-12-14
+4801
+ double
+ Dei Adrian 2022-12-04 2022-12-27
+1902
+ family Man Anda 2022-08-12 2022-10-17
+1704
+ family Man Carmen 2022-02-12 2022-03-23
+903
+ double
+ Alb Adrian 2022-06-14 2022-07-19
+301
+ family Coman Adrian 2022-09-16 2022-11-20
+5801
+ single
+ Dei Anda 2022-08-06 2022-09-25
+3703
+ family Man Paul 2022-05-08 2022-09-10
+6801
+ single
+ Coman Adrian 2022-06-03 2022-11-21
+903
+ double
+ Bob Carmen 2022-06-03 2022-10-13
+8903
+ double
+ Coman Anda 2022-04-12 2022-06-16
+9703
+ double
+ Coman Adrian 2022-03-21 2022-07-26
+9005 single
+ Alb Adrian 2022-08-17 2022-09-18
+6302
+ double
+ Dei Carmen 2022-07-25 2022-07-28
+6604
+ family Man Carmen 2022-11-21 2022-11-27
+7104
+ single
+ Bob Marius 2022-11-21 2022-12-22
+6001
+ single
+ Man Paul 2022-12-27 2022-12-27
+403
+ family Alb Anda 2022-05-25 2022-09-25
+6302
+ family Man Adrian 2022-12-24 2022-12-25
+3301
+ family Bob Paul 2022-10-04 2022-12-04
+9604
+ double
+ Coman Paul 2022-09-16 2022-10-28
+5002
+ single
+ Man Anda 2022-01-15 2022-08-20
+2004
+ family Man Adrian 2022-10-07 2022-11-13
+6603
+ family Alb Carmen 2022-07-23 2022-08-24
+7404
+ family Coman Carmen 2022-09-06 2022-11-16
+1001
+ single
+ Bob Carmen 2022-07-11 2022-12-20
+6303
+ single
+ Alb Adrian 2022-09-20 2022-12-27
+4602
+ family Man Paul 2022-05-28 2022-06-28
+7904
+ single
+ Man Paul 2022-02-21 2022-11-26
+1302
+ single
+ Alb Adrian 2022-10-25 2022-12-28
+6304
+ single
+ Dei Carmen 2022-04-13 2022-08-13
+1301
+ family Dei Adrian 2022-01-23 2022-07-23
+2603
+ family Man Paul 2022-11-04 2022-12-27
+1502
+ single
+ Coman Marius 2022-08-12 2022-11-12
+2505 single
+ Man Marius 2022-11-01 2022-12-18
+5601
+ double
+ Alb Marius 2022-08-17 2022-09-27
+6003
+ double
+ Coman Paul 2022-06-01 2022-09-07
+1403
+ family Alb Adrian 2022-02-16 2022-08-20
+8304
+ double
+ Bob Anda 2022-09-23 2022-11-25
+3805 family Alb Carmen 2022-11-18 2022-11-25
+904
+ family Dei Adrian 2022-12-03 2022-12-17
+7603
+ family Alb Paul 2022-12-20 2022-12-21
+4102
+ single
+ Dei Paul 2022-03-13 2022-07-21
+5901
+ single
+ Man Marius 2022-06-07 2022-10-27
+7501
+ single
+ Bob Anda 2022-04-03 2022-09-04
+6502
+ double
+ Coman Adrian 2022-12-06 2022-12-09
+9702
+ family Alb Paul 2022-09-12 2022-10-28
+2301
+ double
+ Bob Carmen 2022-08-23 2022-09-26
+1401
+ single
+ Coman Paul 2022-06-19 2022-11-28
+3202
+ double
+ Man Paul 2022-01-28 2022-09-28
+4604
+ double
+ Man Paul 2022-06-21 2022-06-26
+602
+ single
+ Alb Paul 2022-11-12 2022-11-28
+6004
+ family Dei Adrian 2022-01-26 2022-10-27
+5903
+ single
+ Bob Carmen 2022-01-16 2022-06-18
+2804
+ single
+ Dei Marius 2022-10-28 2022-12-28
+9402
+ single
+ Bob Anda 2022-03-17 2022-09-20
+8905 single
+ Coman Adrian 2022-02-07 2022-05-23
+8002
+ double
+ Dei Marius 2022-04-11 2022-11-26
+1704
+ single
+ Coman Adrian 2022-09-04 2022-10-09
+5702
+ family Bob Paul 2022-03-26 2022-05-26
+9301
+ single
+ Bob Adrian 2022-03-07 2022-07-25
+1103
+ family Dei Carmen 2022-02-24 2022-03-25
+6101
+ single
+ Coman Paul 2022-05-25 2022-10-25
+801
+ single
+ Alb Anda 2022-11-10 2022-12-24
+7503
+ single
+ Alb Anda 2022-04-26 2022-05-27
+1302
+ single
+ Coman Adrian 2022-05-19 2022-12-23
+5002
+ family Coman Paul 2022-02-14 2022-03-16
+9902
+ family Alb Paul 2022-07-13 2022-11-28
+1705 family Man Marius 2022-11-08 2022-12-24
+6704
+ single
+ Alb Paul 2022-07-25 2022-08-25
+8701
+ family Alb Adrian 2022-01-16 2022-12-28
+7303
+ family Bob Anda 2022-07-04 2022-07-21
+202
+ single
+ Man Marius 2022-04-20 2022-11-28
+9405 double
+ Man Adrian 2022-04-27 2022-04-27
+2702
+ single
+ Man Adrian 2022-09-09 2022-09-15
+1105 family Man Marius 2022-04-04 2022-11-04
+3402
+ single
+ Bob Carmen 2022-10-19 2022-10-20
+3005 family Man Adrian 2022-03-19 2022-06-27
+6103
+ family Bob Paul 2022-09-15 2022-12-24
+4405 double
+ Bob Paul 2022-02-17 2022-11-20
+8705 family Coman Paul 2022-09-22 2022-10-25
+6305 double
+ Dei Adrian 2022-01-05 2022-04-25
+504
+ single
+ Alb Marius 2022-05-16 2022-08-28
+4805 single
+ Man Paul 2022-07-03 2022-09-24
+6405 family Coman Paul 2022-10-24 2022-12-27
+8002
+ family Alb Adrian 2022-06-21 2022-06-21
+3105 double
+ Bob Anda 2022-05-22 2022-10-26
+4205 family Alb Paul 2022-09-14 2022-12-24
+8703
+ family Dei Carmen 2022-11-05 2022-12-23
+2005 family Coman Paul 2022-09-02 2022-12-06
+2305 double
+ Alb Paul 2022-08-12 2022-09-15
+1903
+ double
+ Man Anda 2022-01-13 2022-12-26
+2601
+ family Alb Carmen 2022-11-03 2022-12-08
+5701
+ double
+ Man Paul 2022-09-01 2022-12-13
+4305 family Man Adrian 2022-05-01 2022-07-01
+5504
+ family Alb Anda 2022-02-02 2022-08-13
+7703
+ double
+ Alb Carmen 2022-07-19 2022-11-26
+3403
+ double
+ Man Marius 2022-03-21 2022-07-28
+1501
+ single
+ Bob Marius 2022-03-24 2022-12-26
+9204
+ single
+ Dei Carmen 2022-02-27 2022-12-28
+9203
+ double
+ Dei Anda 2022-12-12 2022-12-24
+404
+ family Alb Paul 2022-01-27 2022-12-27
+4303
+ double
+ Alb Carmen 2022-07-22 2022-07-27
+3104
+ family Dei Anda 2022-08-15 2022-10-21
+9904
+ double
+ Alb Marius 2022-09-28 2022-09-28
+6901
+ single
+ Coman Paul 2022-10-16 2022-12-19
+7703
+ family Dei Paul 2022-09-27 2022-09-27
+1701
+ single
+ Dei Carmen 2022-05-14 2022-09-18
+204
+ single
+ Dei Anda 2022-09-10 2022-09-26
+4705 family Alb Adrian 2022-02-09 2022-06-21
+6003
+ single
+ Bob Paul 2022-05-01 2022-08-01
+903
+ family Bob Marius 2022-12-23 2022-12-26
+2102
+ family Coman Adrian 2022-10-02 2022-10-06
+5203
+ double
+ Bob Marius 2022-03-18 2022-11-23
+8001
+ double
+ Bob Anda 2022-10-13 2022-11-20
+3501
+ double
+ Bob Paul 2022-08-22 2022-10-28
+1705 family Bob Anda 2022-03-08 2022-08-22
+5802
+ single
+ Man Carmen 2022-03-13 2022-05-25
+5305 single
+ Alb Carmen 2022-06-16 2022-07-21
+503
+ family Bob Carmen 2022-03-25 2022-05-28
+5601
+ single
+ Man Carmen 2022-10-14 2022-10-24
+4401
+ double
+ Coman Anda 2022-09-19 2022-11-23
+4503
+ double
+ Coman Anda 2022-01-17 2022-01-26
+7001
+ single
+ Man Marius 2022-08-06 2022-09-11
+1904
+ family Bob Paul 2022-03-22 2022-12-24
+4202
+ double
+ Alb Adrian 2022-01-22 2022-02-25
+1702
+ single
+ Bob Marius 2022-11-19 2022-11-24
+8201
+ family Man Marius 2022-05-20 2022-09-24
+3802
+ single
+ Man Carmen 2022-03-13 2022-07-21
+7903
+ family Alb Marius 2022-10-24 2022-11-24
+2803
+ double
+ Coman Anda 2022-12-04 2022-12-09
+802
+ double
+ Bob Paul 2022-04-08 2022-07-20
+8001
+ single
+ Coman Adrian 2022-05-08 2022-07-09
+3803
+ single
+ Alb Carmen 2022-11-22 2022-12-27
+8305 double
+ Alb Paul 2022-04-05 2022-09-07
+1202
+ single
+ Coman Adrian 2022-01-18 2022-07-19
+9701
+ single
+ Dei Adrian 2022-09-04 2022-09-05
+2603
+ double
+ Dei Anda 2022-02-10 2022-11-27
+7704
+ family Coman Anda 2022-09-01 2022-10-12
+7402
+ single
+ Bob Carmen 2022-04-11 2022-12-21
+401
+ family Alb Carmen 2022-07-23 2022-07-25
+1004
+ double
+ Dei Marius 2022-07-21 2022-08-22
+2604
+ family Alb Carmen 2022-04-18 2022-07-18
+3202
+ double
+ Dei Carmen 2022-11-23 2022-11-25
+9203
+ family Bob Adrian 2022-11-15 2022-11-19
+9304
+ family Dei Anda 2022-09-24 2022-10-24
+5001
+ family Alb Adrian 2022-09-19 2022-10-28
+7803
+ family Alb Anda 2022-12-13 2022-12-22
+8601
+ double
+ Dei Adrian 2022-11-13 2022-12-19
+6205 double
+ Coman Adrian 2022-10-20 2022-12-22
+6902
+ family Dei Adrian 2022-03-04 2022-04-18
+2601
+ single
+ Bob Carmen 2022-09-04 2022-12-25
+3002
+ single
+ Coman Paul 2022-01-13 2022-11-28
+7605 double
+ Man Adrian 2022-03-11 2022-04-28
+3705 single
+ Man Adrian 2022-12-16 2022-12-25
+9405 double
+ Coman Adrian 2022-04-13 2022-05-18
+902
+ single
+ Dei Adrian 2022-11-12 2022-11-12
+1901
+ double
+ Dei Anda 2022-12-03 2022-12-28
+6405 single
+ Alb Adrian 2022-05-22 2022-11-25
+7001
+ single
+ Coman Paul 2022-08-28 2022-11-28
+3203
+ double
+ Coman Carmen 2022-09-07 2022-12-24
+7705 single
+ Bob Marius 2022-08-16 2022-12-20
+1203
+ single
+ Alb Marius 2022-05-24 2022-10-24
+1602
+ single
+ Alb Marius 2022-08-15 2022-10-18
+4602
+ double
+ Dei Carmen 2022-04-12 2022-12-12
+2002
+ single
+ Dei Adrian 2022-01-02 2022-12-03
+8701
+ double
+ Bob Paul 2022-03-16 2022-06-22
+5801
+ single
+ Man Anda 2022-01-12 2022-11-23
+4802
+ single
+ Alb Adrian 2022-12-08 2022-12-11
+4501
+ single
+ Bob Anda 2022-12-24 2022-12-28
+1505 single
+ Coman Adrian 2022-10-23 2022-12-23
+5602
+ family Bob Marius 2022-04-16 2022-12-20
+6104
+ double
+ Dei Adrian 2022-06-20 2022-09-28
+4105 double
+ Man Carmen 2022-01-21 2022-03-28
+1204
+ double
+ Man Carmen 2022-06-03 2022-07-16
+4205 single
+ Bob Anda 2022-06-16 2022-06-20
+405 single
+ Bob Carmen 2022-08-10 2022-08-26
+6701
+ double
+ Bob Paul 2022-07-16 2022-10-23
+5604
+ single
+ Bob Adrian 2022-12-24 2022-12-25
+103
+ family Dei Adrian 2022-11-19 2022-11-22
+7201
+ double
+ Man Paul 2022-10-23 2022-11-27
+5604
+ family Coman Marius 2022-02-04 2022-04-04
+203
+ single
+ Coman Paul 2022-08-11 2022-11-15
+8604
+ double
+ Dei Marius 2022-03-12 2022-10-18
+005 single
+ Coman Marius 2022-11-13 2022-11-25
+4601
+ double
+ Bob Carmen 2022-02-14 2022-02-16
+7905 single
+ Alb Carmen 2022-04-22 2022-06-26
+8203
+ single
+ Dei Paul 2022-02-21 2022-05-28
+9801
+ double
+ Bob Adrian 2022-11-15 2022-12-23
+8201
+ double
+ Coman Marius 2022-09-24 2022-12-24
+8402
+ double
+ Alb Marius 2022-12-13 2022-12-16
+103
+ double
+ Bob Marius 2022-08-22 2022-08-22
+2901
+ single
+ Man Adrian 2022-01-27 2022-09-27
+2101
+ single
+ Man Anda 2022-08-27 2022-12-27
+1104
+ double
+ Alb Marius 2022-04-12 2022-06-12
+8603
+ single
+ Dei Adrian 2022-02-04 2022-07-22
+3302
+ single
+ Bob Paul 2022-04-19 2022-04-21
+2304
+ family Dei Anda 2022-09-03 2022-10-22
+8201
+ double
+ Bob Paul 2022-07-14 2022-07-25
+5705 single
+ Alb Carmen 2022-09-04 2022-11-27
+6401
+ double
+ Man Adrian 2022-09-07 2022-10-12
+10003
+ single
+ Coman Anda 2022-12-27 2022-12-28
+1803
+ double
+ Alb Adrian 2022-09-28 2022-10-28
+4803
+ family Dei Anda 2022-01-25 2022-03-28
+1601
+ family Coman Marius 2022-09-20 2022-11-20
+5202
+ family Alb Marius 2022-05-08 2022-05-14
+6802
+ single
+ Man Anda 2022-04-13 2022-06-18
+8101
+ family Coman Anda 2022-01-06 2022-06-22
+9003
+ single
+ Coman Paul 2022-10-21 2022-11-22
+5201
+ double
+ Alb Carmen 2022-09-24 2022-10-26
+6501
+ family Bob Adrian 2022-07-18 2022-09-22
+7104
+ family Man Marius 2022-06-19 2022-12-27
+9904
+ double
+ Alb Marius 2022-06-13 2022-06-14
+8905 double
+ Alb Adrian 2022-09-03 2022-09-08
+4201
+ family Dei Adrian 2022-08-21 2022-08-26
+9302
+ double
+ Coman Marius 2022-08-28 2022-12-28
+1605 double
+ Alb Anda 2022-05-04 2022-06-07
+5102
+ family Dei Adrian 2022-07-21 2022-11-23
+7502
+ single
+ Coman Marius 2022-11-10 2022-11-10
+3605 family Dei Paul 2022-02-16 2022-09-16
+6002
+ single
+ Bob Carmen 2022-01-07 2022-01-24
+002
+ single
+ Alb Marius 2022-04-17 2022-10-21
+5905 family Coman Paul 2022-07-19 2022-08-26
+5902
+ single
+ Coman Paul 2022-06-22 2022-07-22
+4605 single
+ Dei Carmen 2022-05-18 2022-07-27
+6903
+ family Coman Anda 2022-07-02 2022-11-07
+8903
+ family Bob Anda 2022-03-05 2022-04-19
+1404
+ family Bob Paul 2022-11-17 2022-11-18
+503
+ double
+ Alb Marius 2022-05-21 2022-10-27
+7403
+ family Coman Marius 2022-12-11 2022-12-13
+002
+ single
+ Alb Carmen 2022-07-03 2022-08-04
+3405 single
+ Coman Carmen 2022-01-01 2022-03-13
+3404
+ single
+ Bob Marius 2022-05-15 2022-05-15
+7901
+ double
+ Dei Carmen 2022-01-02 2022-03-02
+8902
+ single
+ Man Adrian 2022-11-08 2022-11-20
+8402
+ double
+ Bob Carmen 2022-05-11 2022-10-17
+3802
+ family Dei Marius 2022-07-15 2022-12-27
+1101
+ double
+ Coman Carmen 2022-11-25 2022-12-25
+1401
+ double
+ Alb Paul 2022-12-13 2022-12-14
+4905 double
+ Dei Adrian 2022-01-01 2022-12-20
+1005 single
+ Alb Paul 2022-09-02 2022-12-12
+5201
+ double
+ Bob Carmen 2022-07-07 2022-07-26
+9503
+ family Bob Carmen 2022-09-20 2022-11-24
+3903
+ double
+ Man Anda 2022-11-27 2022-12-27
+1802
+ single
+ Alb Marius 2022-11-26 2022-11-28
+1703
+ double
+ Man Paul 2022-06-13 2022-10-17
+5305 single
+ Bob Anda 2022-07-11 2022-07-20
+1802
+ family Man Anda 2022-03-05 2022-10-18
+2201
+ single
+ Dei Adrian 2022-11-25 2022-12-26
+005 double
+ Alb Marius 2022-11-02 2022-12-12
+8405 double
+ Man Carmen 2022-11-27 2022-11-28
+6801
+ single
+ Dei Carmen 2022-02-11 2022-07-27
+6503
+ double
+ Alb Paul 2022-04-12 2022-12-21
+1202
+ double
+ Dei Carmen 2022-01-04 2022-02-24
+8901
+ double
+ Coman Anda 2022-05-02 2022-11-23
+2202
+ single
+ Dei Paul 2022-05-18 2022-10-22
+3304
+ family Coman Carmen 2022-06-28 2022-10-28
+6004
+ single
+ Coman Adrian 2022-03-25 2022-04-25
+6205 double
+ Coman Paul 2022-07-17 2022-12-27
+4101
+ double
+ Dei Carmen 2022-08-06 2022-08-25
+2004
+ single
+ Dei Marius 2022-01-09 2022-06-19
+8802
+ single
+ Alb Carmen 2022-06-10 2022-10-28
+4704
+ double
+ Coman Paul 2022-08-18 2022-09-22
+7701
+ single
+ Bob Adrian 2022-05-16 2022-11-21
+1702
+ family Alb Paul 2022-04-07 2022-08-27
+6801
+ double
+ Dei Adrian 2022-02-07 2022-12-28
+5302
+ double
+ Alb Carmen 2022-02-22 2022-10-25
+6905 double
+ Coman Paul 2022-11-22 2022-12-26
+8903
+ double
+ Bob Marius 2022-02-10 2022-08-24
+8002
+ family Alb Marius 2022-10-23 2022-10-24
+4001
+ single
+ Alb Anda 2022-11-03 2022-11-23
+8705 double
+ Coman Marius 2022-05-28 2022-09-28
+6004
+ single
+ Coman Anda 2022-06-26 2022-08-28
+7703
+ double
+ Coman Marius 2022-12-10 2022-12-23
+9005 double
+ Dei Adrian 2022-08-25 2022-09-27
+8105 single
+ Man Anda 2022-09-11 2022-10-26
+3005 family Coman Carmen 2022-03-19 2022-11-28
+3305 single
+ Coman Adrian 2022-01-20 2022-10-22
+1304
+ single
+ Coman Anda 2022-07-08 2022-08-16
+8505 single
+ Man Paul 2022-02-17 2022-05-18
+6201
+ single
+ Dei Paul 2022-08-22 2022-11-27
+701
+ family Coman Adrian 2022-12-19 2022-12-24
+3905 single
+ Alb Adrian 2022-08-27 2022-10-27
+4803
+ family Bob Adrian 2022-05-02 2022-08-26
+205 single
+ Bob Adrian 2022-02-12 2022-05-26
+4304
+ family Bob Paul 2022-01-23 2022-08-26
+8904
+ double
+ Coman Paul 2022-02-06 2022-07-12
+3103
+ family Alb Anda 2022-06-21 2022-07-28
+3701
+ single
+ Coman Anda 2022-08-16 2022-12-19
+2005 double
+ Man Carmen 2022-07-28 2022-08-28
+203
+ single
+ Bob Anda 2022-09-26 2022-09-28
+4103
+ family Coman Marius 2022-08-28 2022-12-28
+9605 family Man Marius 2022-11-17 2022-11-28
+6903
+ double
+ Man Anda 2022-10-12 2022-12-25
+401
+ double
+ Man Anda 2022-02-16 2022-08-19
+2204
+ single
+ Coman Anda 2022-09-05 2022-09-08
+7204
+ double
+ Bob Paul 2022-12-08 2022-12-15
+3902
+ single
+ Man Paul 2022-01-21 2022-06-21
+5701
+ family Coman Adrian 2022-10-24 2022-11-26
+501
+ single
+ Dei Paul 2022-10-18 2022-12-21
+1802
+ double
+ Dei Marius 2022-02-23 2022-12-28
+8504
+ single
+ Bob Adrian 2022-04-01 2022-05-23
+3303
+ single
+ Man Adrian 2022-08-04 2022-11-10
+2002
+ single
+ Man Anda 2022-04-03 2022-12-08
+3701
+ single
+ Dei Carmen 2022-12-09 2022-12-10
+7305 single
+ Coman Paul 2022-05-28 2022-10-28
+804
+ single
+ Coman Anda 2022-10-07 2022-11-08
+6404
+ single
+ Dei Adrian 2022-11-10 2022-12-17
+4202
+ family Alb Anda 2022-10-24 2022-12-27
