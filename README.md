@@ -7,7 +7,7 @@
 * :radioactive: Computer System Architecture
 
 ### :tulip: Semester 2
-* :frog: Data Structures and Algorithms
+* :frog: [Data Structures and Algorithms](https://github.com/cheresandreea/Faculty/tree/main/DSA)
 * :clap: [Object Oriented Programming](https://github.com/cheresandreea/Faculty/tree/main/C%2B%2B)
 * :brain: Dynamical Systems
 * :dizzy: [Graph Algorithms](https://github.com/cheresandreea/Faculty/tree/main/Graphs)
