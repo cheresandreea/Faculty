@@ -4,7 +4,7 @@
 * :dark_sunglasses: Computational Logic
 * :snake: [Fundamentals of Programming](https://github.com/cheresandreea/Faculty/tree/main/FP)
 * :open_book: Mathematical Analysis
-* :radioactive: Computer System Architecture
+* :radioactive: [Computer System Architecture](https://github.com/cheresandreea/Faculty/tree/main/CSA)
 
 ### :tulip: Semester 2
 * :frog: [Data Structures and Algorithms](https://github.com/cheresandreea/Faculty/tree/main/DSA)
