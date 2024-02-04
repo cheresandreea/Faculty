@@ -1,0 +1,13 @@
+->tot ceea ce face initul sa facem intr o funtie
+->pt fiecare ex sa avem contr+repo alocat
+
+class PrgState{
+
+	public void changePrg(IStmt prg){
+		this.originalprogram = prg.deepcopy();
+		exeStack.clear();
+		out.clear();
+		symbTbl.clear();
+		exeStack.push(this.originalprogram);
+	}
+}

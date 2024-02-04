@@ -1,0 +1,32 @@
+%exists(E-element, L-list)
+%flow model (i,i)
+
+exists(E, [H|_]):-
+    H=E.
+exists(E,[_|T]):-
+    exists(E,T).
+
+%test_equality(L1-lista 1, L2-lista 2)
+%flow model (i,i)
+
+test_equality1([E],L2):-
+    exists(E,L2).
+test_equality1([H|T],L2):-
+    exists(H,L2),
+    test_equality1(T,L2).
+
+test_equality(L1, L2):-
+    test_equality1(L1, L2),
+    test_equality1(L2, L1).
+
+%select_N(L1-list, N-given number, R-result)
+%flow model (i,i,o)
+
+select_N([], N, R):-
+    N>1,
+    R is -1.
+select_N([H|_], 1, H).
+select_N([_|T], N, R):-
+    N>1,
+    NN is N-1,
+    select_N(T,NN,R).

@@ -1,0 +1,155 @@
+% remove_atom(L - list, a - number, R - result)
+%flow model (i,i,o), (i,i,o)
+
+remove_atom([],_,[]).
+remove_atom([H|T], A, R):-
+    H \= A,
+    remove_atom(T, A, NewR),
+	R = [H|NewR].
+
+remove_atom([H|T], A, R):-
+    H = A,
+    remove_atom(T, A, R).
+
+%numberatom([], C, C).
+%numberatom([H|T], C, R):-
+
+append([], L, [[],L]).
+append([H|T],L,[[H|L1]|Result]):-
+    append(T, L, [L1|Result]).
+
+%number_occ(E,L,R)
+number_occ(E, [], C, C).
+number_occ(E, [H|T], C, R):-
+    E = H,
+    NewC is C + 1,
+    number_occ(E, T, NewC, R).
+number_occ(E, [H|T], C, R):-
+    E \= H,
+    number_occ(E, T, C, R).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%pozitiile pe care e maximul:
+%max(L-list, R-result)
+%flow model(i,i), (i,o)
+
+max([E],E).
+max([H|T], Max):-
+	max(T,MaxTail),
+    H >= MaxTail,
+    Max is H.
+
+max([E],E).
+max([H|T], Max):-
+	max(T,MaxTail),
+    H < MaxTail,
+    Max is MaxTail.
+
+
+%max_pos(L-list, LM -list max, P - currpos, R - result)
+%flow model(i,i,i,i), (i,i,i,o)
+max_pos([], _, _, []).
+max_pos([H|T], Max, P, [P|R]):-
+    NewP is P+1,
+    H =:= Max, 
+	max_pos(T, Max, NewP, R).
+
+max_pos([H|T], Max, P, R):-
+    NewP is P+1,
+    H \= Max,
+	max_pos(T, Max, NewP, R).
+
+find_pos(L, PosL):-
+    max(L, Max),
+    max_pos(L, Max, 1, PosL).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%stergere de pe poz 1,3,7,15
+
+add(E,[],[E]).
+add(E,[H|T],[H|NewT]):-
+    add(E,T,NewT).
+
+sterge([],_,_,R,R).
+sterge([_|T], CPos, P, C, R):-
+    NewCPos is CPos + 1,
+    NewCPos =:= P,
+    NewP is P * 2 + 1,
+    sterge(T,NewCPos,NewP,C,R).
+
+sterge([H|T], CPos, P, C, R):-
+    NewCPos is CPos + 1,
+    NewCPos =\= P,
+    add(H, C, NewC),
+    sterge(T,NewCPos,P,NewC,R).
+
+add_sterge(L,R):-
+    sterge(L,0,1,[],R).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%valley aspect
+%valley(L,F,R)
+
+valley([_],1).
+valley([E1,E2|T], 0):-
+    E1 > E2,
+    valley([E2|T],0).
+    
+valley([E1,E2|T], 0):-
+    E1 < E2,
+    valley([E2|T],1).
+
+valley([E1,E2|T], 1):-
+    E1 > E2,
+    valley([E2|T],1).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Write a predicate to determine all decomposition 
+%of n (n given, positive), as sum of consecutive 
+%natural numbers.
+
+%myBetween(X - fisrt number, Y - second number, R - result)
+%flow model (i,i,o)
+myBetween(X, Y, X) :-
+    X =< Y.
+myBetween(X, Y, R) :-
+    X < Y,
+    NextX is X + 1,
+    myBetween(NextX, Y, R).
+
+%generatePair(N - number to be decomposed, X - first number, Y - second number)
+%flow model (i,i,i)
+
+generatePair(N, X, Y) :-
+    myBetween(1, N, X),
+    myBetween(1, N, Y),
+    X < Y,
+    N =:= X + Y.
+
+% decomposeNumber(N - integer, L - list)
+%flow model (i,i)
+
+decomposeNumber(N, [N]).
+decomposeNumber(N, [X|L]):-
+    generatePair(N, X, Y),
+    decomposeNumber(Y, L).
+
+%is consecutive(L - list)
+%flow model (i,i)
+isConsecutive([X,Y]):-
+    Y=:=X+1.
+isConsecutive([X,Y|T]):-
+    Y=:=X+1, 
+    isConsecutive([Y|T]).
+
+%nAsSumOfConsecutives(N - number to be decomposed, R - result)
+%flow model (i,o)
+nAsSumOfConsecutives(N,R):-
+	findall(X, (decomposeNumber(N, X), isConsecutive(X)), R).
+
+
+    
+
+    

@@ -1,0 +1,24 @@
+
+%append(L1-list, L2-list, R-result)
+%flow model(i,i,i), (i,i,o)
+
+append([],L,L).
+append([H|T], L, [H|R]):-
+    append(T,L,R).
+
+%replace(L-list, E-element)
+%flow model
+replace([], _, [], [], []).
+replace([H|T], E, L2, C, R):-
+    H =:= E,
+    append(C, L2, NewR),
+    replace(T, E, L2, R, NewR).
+
+replace([H|T], E, L2, C, R):-
+    H =\= E,
+    append(C, [E], NewR),
+    replace(T, E, L2, R, NewR).
+
+
+main_replace(L1, E, L2):-
+    replace(L1, E, L2, [], R).

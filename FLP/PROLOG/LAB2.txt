@@ -1,0 +1,64 @@
+%reverse(L-list,C-collector, R-result)
+%flow model(i,i,o)
+reverse([],C,C).
+reverse([H|T],C,R):-
+   	NewC=[H|C],
+    reverse(T,NewC,R).
+
+%suma(L1-number1 written in list repr, L2-number2, Ca-carry,C-collector,R-result)
+%flow model(i,i,i,i,o)
+
+suma([],[],Ca,C,R):-
+    Ca=0,
+    R=C.
+
+suma([],[],Ca,C,R):-  
+    Ca>=1,
+    NewC=[Ca|C],
+    R=NewC.
+
+suma([H1|T1], [H2|T2], Ca, C, R):-
+    NewCa is (H1+H2+Ca) div 10,
+    Var is (H1+H2+Ca)mod 10,
+    NewC = [Var|C],
+    suma(T1,T2,NewCa,NewC,R).
+
+suma([],[H|T],Ca,C,R):-
+    NewCa is (Ca+H) div 10 mod 10,
+    Var is (H+Ca) mod 10,
+	NewC = [Var|C],
+    suma([],T,NewCa,NewC,R).
+
+suma([H|T],[],Ca,C,R):-
+    NewCa is (Ca+H) div 10 mod 10,
+    Var is (H+Ca) mod 10,
+	NewC = [Var|C],
+    suma(T,[],NewCa,NewC,R).
+
+% main_suma(List1,List2,R-result)
+% flow model(i,i,o)
+main_suma(List1, List2, R) :-
+    reverse(List1, [], C1),
+    reverse(List2,[], C2),
+    suma(C1,C2,0,[],R).
+
+% main_hetero(List1,R-result)
+% flow model(i,o)
+main_hetero(List1, R) :-
+    suma_hetero(List1,[],R).
+
+%suma_hetero(L-list,C-collector,R-result)
+%flow model(i,i,o)
+suma_hetero([],C,C).
+suma_hetero([H|T],C,R):-
+    is_list(H),
+    %suma(C,H,0,[],NewC),
+    main_suma(C,H,NewC),
+    suma_hetero(T,NewC,NewR),
+    R=NewR.
+
+suma_hetero([H|T],C,R):-
+    not(is_list(H)),
+    suma_hetero(T,C,NewR),
+    R=NewR.
+

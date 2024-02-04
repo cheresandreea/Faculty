@@ -1,0 +1,13 @@
+%remove(L-list,R-result list)
+%flow model(i,o), (i,i)
+
+remove([], []).
+remove([H|T], R):-
+    is_list(H),
+    remove(T,R).
+remove([H|T], R):-
+    atomic(H),
+    %\+ is_list(H),
+    %not is_list(H),
+    remove(T, TR),
+    R=[H|TR].

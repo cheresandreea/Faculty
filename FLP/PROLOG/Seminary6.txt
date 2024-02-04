@@ -1,0 +1,12 @@
+words
+.stream
+.foareach(x -> System.println("   " + x))
+-----------------------------------------------
+
+words
+.stream
+.map(x -> x + "!")
+.Collectors.toList()
+---------------------------
+
+

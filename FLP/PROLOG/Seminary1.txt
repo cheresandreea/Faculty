@@ -1,0 +1,29 @@
+% multiplyk(L - list, K - number, R - result list)
+% flow model(i, i, o)
+multiplyk([], _ , []).
+multiplyk([H|T], K, R):-
+    multiplyk(T, K, RT),
+    NewH is H*K,
+    R = [NewH|RT].
+
+% addE(L - list, e - element, R - result list)
+% flow model (i, i, o) or (i, i, i)
+addE([], E, [E]).
+addE([H|T], E, [H|R]):-
+    addE(T, E, R).
+
+% mysum(L - list, R - result sum)
+%flow model (i,i) or (i,o)
+mysum([],0).
+mysum([H|T], S):-
+    mysum(T,ST),
+    S is H+ST.
+
+% myinsert(L - list, E - element, P - position, R - result list)
+% flow model (i,i,i,o) or (i,i,i,i)
+myinsert([], E, P, [E]):- P>1.
+myinsert(L, E, 1, [E|L]).
+myinsert([H|T], E, P, [H|TR]):-
+    P>1,
+    P1 is P-1,
+    myinsert(T, E, P1, TR).

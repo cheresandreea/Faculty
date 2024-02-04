@@ -1,0 +1,24 @@
+%suma(L-list, S-number)
+%flow model (i,o)
+
+suma([], 0).
+suma([H|T], S):-
+    suma(T, S1),
+    S is S1+H.
+
+%sumC(L-list, C-collector, S-number)
+sumC([], C, C).
+sumC([H|T], C, S):-
+    NewC is C+H,
+    sumC(T, NewC, S).
+
+%nrOfC(L-list, C-collector, E-element, R-result)
+%flow model (i,i,i,o)
+nrOfC([], _, C, C).
+nrOfC([H|T], E, C, R):-
+    H=E,
+    NewC is C+1,
+    nrOfC(T, E, NewC, R).
+nrOfC([H|T], E, C, R):-
+    H\=E,
+    nrOfC(T, E, C, R).
