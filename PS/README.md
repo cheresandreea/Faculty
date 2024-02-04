@@ -1,1 +1,1 @@
-# Probabilities and Statistics
+# Probability and Statistics
