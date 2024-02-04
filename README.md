@@ -17,5 +17,5 @@
 * :woman_technologist: [Methods of Programming](https://github.com/cheresandreea/Faculty/tree/main/MAP)
 * :link: Computer Networks
 * :hearts: Databases
-* :chess_pawn: Functional and Logic Programming
+* :chess_pawn: [Functional and Logic Programming](https://github.com/cheresandreea/Faculty/tree/main/FLP)
 * :chart_with_upwards_trend: Probability and Statistics
