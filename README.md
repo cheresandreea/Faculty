@@ -19,3 +19,7 @@
 * :hearts: Databases
 * :chess_pawn: [Functional and Logic Programming](https://github.com/cheresandreea/Faculty/tree/main/FLP)
 * :chart_with_upwards_trend: [Probability and Statistics](https://github.com/cheresandreea/Faculty/tree/main/PS)
+
+### :cherry: Semester 4
+* Advanced Programming Methods
+  
