@@ -21,5 +21,8 @@
 * :chart_with_upwards_trend: [Probability and Statistics](https://github.com/cheresandreea/Faculty/tree/main/PS)
 
 ### 🧠: Semester 4
-* 👩‍🎓 Programming Methods
-  
+* 👩‍🎓[Programming Methods](https://github.com/cheresandreea/Faculty/tree/main/MPP)
+* 🕸️ Web Programming
+* 🧠 Artificial Intelligence
+* 🐾 Software Engineering
+* 📈 DataBase Management Systems
