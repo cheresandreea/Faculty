@@ -63,6 +63,36 @@ The Collar Management System is a web application designed to manage a list of c
 - **POST /collars/reviews/create/:id**: Create a new review for a certain collar
 - **PUT /collars/reviews/edit/:id**: Update an existing review
 - **DELETE /collars/reviews/delete/:id**: Delete a review
+
+## Running the Application
+
+### Backend
+
+1. Navigate to the backend directory and install dependencies:
+    ```bash
+    cd Server
+    npm install
+    ```
+
+2. Start the backend server:
+    ```bash
+    npm start
+    ```
+    The backend server will run at `http://localhost:4000`.
+
+### Frontend
+
+1. Navigate to the frontend directory and install dependencies:
+    ```bash
+    cd Client
+    npm install
+    ```
+
+2. Start the frontend server:
+    ```bash
+    npm start
+    ```
+    The frontend application will run at `http://localhost:3000`.
   
 ![image](https://github.com/cheresandreea/Faculty/assets/115451911/f4c60726-d8af-40d0-9a62-93deb564aebe)
 ![image](https://github.com/cheresandreea/Faculty/assets/115451911/09ab58b6-4c56-42a6-85c7-fa9729eee24e)
