@@ -6,9 +6,11 @@ The Collar Management System is a web application designed to manage a list of c
 ## Features
 
 - User authentication (registration and login)
+- See user details based on generated token
 - Create, update, and delete collars
 - View collars sorted and paginated
 - Chart displaying materials used for collars
+- Note: Initial collar data is generated using the Faker library for demonstration purposes.
 
 ## Technologies Used
 
@@ -24,8 +26,9 @@ The Collar Management System is a web application designed to manage a list of c
 
 ## Usage
 
-- Access the application at `http://localhost:4000`.
+- Access the application at `http://localhost:3000`.
 - Register for a new account or log in with existing credentials.
+- See your user details based on the generated token.
 - Use the UI to create, update, and delete collars.
 - View the list of collars with pagination and sorting options.
 - Check the chart for an overview of materials used.
@@ -34,21 +37,27 @@ The Collar Management System is a web application designed to manage a list of c
 
 ### Auth
 
-- **POST /api/auth/register**: Register a new user
-- **POST /api/auth/login**: Log in a user
+- **POST /auth/register**: Register a new user
+- **POST /auth/login**: Log in a user
 
 ### Collars
 
-- **GET /api/collars**: Get a list of collars (with pagination and sorting)
-- **POST /api/collars**: Create a new collar
-- **PUT /api/collars/:id**: Update an existing collar
-- **DELETE /api/collars/:id**: Delete a collar
+- **GET /collars**: Get a list of collars (with pagination and sorting)
+- **POST /collars/create**: Create a new collar
+- **PUT /collars/edit/:id**: Update an existing collar
+- **DELETE /collars/delete/:id**: Delete a collar
 
-### Materials
+### Reviews
 
-- **GET /api/materials**: Get a list of materials
-
-![image](https://github.com/cheresandreea/Faculty/assets/115451911/b8714519-c03c-4bde-ad71-dbb7c8d01167)
+- **GET /collars/reviews**: Get a list of reviews
+- **POST /collars/reviews/create/:id**: Create a new review for a certain collar
+- **PUT /collars/reviews/edit/:id**: Update an existing review
+- **DELETE /collars/reviews/delete/:id**: Delete a review
+  
+![image](https://github.com/cheresandreea/Faculty/assets/115451911/f4c60726-d8af-40d0-9a62-93deb564aebe)
+![image](https://github.com/cheresandreea/Faculty/assets/115451911/09ab58b6-4c56-42a6-85c7-fa9729eee24e)
+![image](https://github.com/cheresandreea/Faculty/assets/115451911/cff6c97b-a30a-41bb-91b0-e42d249b53b9)
+![image](https://github.com/cheresandreea/Faculty/assets/115451911/b6befa6e-bc61-4ce1-8586-7b3c7cc19ad3)
 ![image](https://github.com/cheresandreea/Faculty/assets/115451911/ce52af2f-a797-4240-92e5-11597312be64)
 ![image](https://github.com/cheresandreea/Faculty/assets/115451911/03156ea6-1693-4006-be06-8e1ebad5b177)
 ![image](https://github.com/cheresandreea/Faculty/assets/115451911/7348d5ac-ee67-40a8-a435-6fd5d2793882)
