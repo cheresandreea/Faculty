@@ -12,7 +12,7 @@ The Collar Management System is a web application designed to manage a list of c
 - Create, update and delete reviews
 - View reviews sorted and paginated
 - Chart displaying materials used for collars
-- Note: Initial collar data is generated using the Faker library for demonstration purposes.
+- Note: Initial data is generated using the Faker library for demonstration purposes.
 
 ## Technologies Used
 
