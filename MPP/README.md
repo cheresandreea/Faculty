@@ -7,8 +7,10 @@ The Collar Management System is a web application designed to manage a list of c
 
 - User authentication (registration and login)
 - See user details based on generated token
-- Create, update, and delete collars
+- Create, update and delete collars
 - View collars sorted and paginated
+- Create, update and delete reviews
+- View reviews sorted and paginated
 - Chart displaying materials used for collars
 - Note: Initial collar data is generated using the Faker library for demonstration purposes.
 
@@ -17,7 +19,7 @@ The Collar Management System is a web application designed to manage a list of c
 ### Backend
 
 - **Node.js** with **Express.js**: Server-side logic and API routes
-- **SQL Server**: Database to store collar information
+- **SQL Server**: Database to store users, collars and reviews information
 
 ### Frontend
 
@@ -31,8 +33,9 @@ The Collar Management System is a web application designed to manage a list of c
 - Access the frontend application at `http://localhost:3000`.
 - Register for a new account or log in with existing credentials.
 - See your user details based on the generated token.
-- Use the UI to create, update, and delete collars.
+- Use the UI to create, update, delete collars and reviews.
 - View the list of collars with pagination and sorting options.
+- View the list of reviews with pagination and sorting options.
 - Check the chart for an overview of materials used.
 
 ### Backend
