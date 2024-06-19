@@ -26,12 +26,19 @@ The Collar Management System is a web application designed to manage a list of c
 
 ## Usage
 
-- Access the application at `http://localhost:3000`.
+### Frontend
+
+- Access the frontend application at `http://localhost:3000`.
 - Register for a new account or log in with existing credentials.
 - See your user details based on the generated token.
 - Use the UI to create, update, and delete collars.
 - View the list of collars with pagination and sorting options.
 - Check the chart for an overview of materials used.
+
+### Backend
+
+- The backend server runs at `http://localhost:4000`.
+- Ensure the backend server is running before accessing the frontend application.
 
 ## API Endpoints
 
