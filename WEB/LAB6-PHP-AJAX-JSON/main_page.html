@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recipe Manager</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<h1>Recipe Manager</h1>
+<div id="filter">
+    <label for="column">Filter by:</label>
+    <select id="column"></select>
+    <input type="text" id="filterValue">
+    <button id="filterButton">Filter</button>
+</div>
+<a href="add_recipe.html"  style="padding-left: 20px"><button id="addRecipeButton">Add Recipe</button></a>
+
+<div id="recipes"></div>
+
+<script src="get_recipes.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Add Recipe</title>
+</head>
+<body>
+<h1>Add Recipe</h1>
+<form id="recipeForm">
+    <label for="author">Author:</label>
+    <input type="text" id="author" name="author" required>
+    <label for="name">Recipe name:</label>
+    <input type="text" id="name" name="name" required>
+    <div>
+        <label for="type">Type:</label>
+        <select id="type" name="type" required>
+        </select>
+    </div>
+    <label for="ingredients">Ingredients:</label>
+    <textarea id="ingredients" name="ingredients" required></textarea>
+    <label for="instructions">Instructions:</label>
+    <textarea id="instructions" name="instructions" required></textarea>
+    <button type="submit">Save</button>
+</form>
+<script src="add_recipe.js"></script>
+<script src="edit_recipe.js"></script>
+
+</body>
+</html>
