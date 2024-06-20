@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+<head>
+</head>
+
+<body>
+    <input type="text" id="inputArray" placeholder="Input an array of numbers">
+    <button onclick="sortAndDisplay()">Sort and Display</button>
+    <table>
+        <tr>
+            <th>Column1</th>
+            <th>Column2</th>
+            <th>Column3</th>
+            <th>Column4</th>
+            <th>Column5</th>
+        </tr>
+        <tbody id="tableBody"></tbody>
+    </table>
+
+    <script>
+        function sortAndDisplay(){
+            const inputArray = document.getElementById("inputArray").value.trim().split(/[ ,]+/).map(Number);
+            inputArray.sort((a,b) => a - b);
+            const tableBody = document.getElementById("tableBody");
+            tableBody.innerHTML = "";
+            const numRows = Math.ceil(inputArray.length / 5);
+            for(let i = 0; i < numRows; i++){
+                const row = tableBody.insertRow();
+                for(let j = 0; j < 5; j++){
+                    const cell = row.insertCell();
+                    const index = i * 5 + j;
+                    if(index < inputArray.length){
+                        cell.textContent = inputArray[index].toString();
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+
+
+</html>
