@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Home Page";
+    var user = await UserManager.GetUserAsync(User);
+    var userName = user != null ? user.UserName : "Guest";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome, @userName</h1>
+    <br />
+    <br />
+    <h1>
+        Welcome to Recipe Manager! Here, you can explore a vast collection of recipes from around the world. Whether you're a beginner cook or an experienced chef, you'll find recipes to suit your taste and skill level.
+    </h1>
+    <br />
+    <br />
+
+    <h2>
+        Feel free to browse through our categories and share your own culinary creations with our community. Happy cooking!
+
+
+
+
+    </h2>
+    <br />
+</div>

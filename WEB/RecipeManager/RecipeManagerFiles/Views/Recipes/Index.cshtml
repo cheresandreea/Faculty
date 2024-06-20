@@ -1,0 +1,85 @@
+﻿@model IEnumerable<RecipeManager.Models.Recipe>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Recipes</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="container mt-3">
+    <form method="get" asp-action="Index">
+        <div class="form-group">
+            <label for="searchTerm">Search</label>
+            <input type="text" class="form-control" id="searchTerm" name="searchTerm" placeholder="Enter search term...">
+        </div>
+        <div class="form-group">
+            <label for="searchColumn">Filter By</label>
+            <select class="form-control" id="searchColumn" name="searchColumn">
+                <option value="author">Author</option>
+                <option value="name">Name</option>
+                <option value="ingredients">Ingredients</option>
+                <option value="instructions">Instructions</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ingredients)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instructions)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @{
+                    string ingredients = item.Ingredients.Length > 100 ? item.Ingredients.Substring(0, 100) + "..." : item.Ingredients;
+                }
+                    @Html.DisplayFor(modelItem => ingredients)
+            </td>
+            <td>
+                @{
+                    string instructions = item.Instructions.Length > 100 ? item.Instructions.Substring(0, 100) + "..." : item.Instructions;
+                }
+                @Html.DisplayFor(modelItem => instructions)
+            </td>
+            <td>
+                    <a style="color:aquamarine; text-decoration: none" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a style="color: orange; text-decoration: none" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a style="color: red; text-decoration: none" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
